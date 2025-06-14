@@ -1,0 +1,127 @@
+{
+  "count": 20,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 793706,
+      "is_buildable": true,
+      "name": "Lego Bin Parts",
+      "num_parts": 6195
+    },
+    {
+      "id": 802516,
+      "is_buildable": true,
+      "name": "Lego Bin Parts (2)",
+      "num_parts": 1825
+    },
+    {
+      "id": 802500,
+      "is_buildable": false,
+      "name": "MOC Burrow Scenery",
+      "num_parts": 4
+    },
+    {
+      "id": 797452,
+      "is_buildable": false,
+      "name": "MOC Butterbeer Cart Parts",
+      "num_parts": 208
+    },
+    {
+      "id": 799200,
+      "is_buildable": false,
+      "name": "MOC Globus Mundi",
+      "num_parts": 61
+    },
+    {
+      "id": 795212,
+      "is_buildable": false,
+      "name": "MOC Madam Malkins Parts",
+      "num_parts": 1180
+    },
+    {
+      "id": 799199,
+      "is_buildable": false,
+      "name": "MOC Magical Menagerie",
+      "num_parts": 81
+    },
+    {
+      "id": 800951,
+      "is_buildable": true,
+      "name": "MOC Ministry of Magic",
+      "num_parts": 20
+    },
+    {
+      "id": 799201,
+      "is_buildable": false,
+      "name": "MOC Owl Emporium",
+      "num_parts": 71
+    },
+    {
+      "id": 797468,
+      "is_buildable": false,
+      "name": "MOC Slug & Jiggers",
+      "num_parts": 1488
+    },
+    {
+      "id": 798947,
+      "is_buildable": false,
+      "name": "Ordered Parts",
+      "num_parts": 0
+    },
+    {
+      "id": 797897,
+      "is_buildable": false,
+      "name": "Parts with Stickers",
+      "num_parts": 138
+    },
+    {
+      "id": 799148,
+      "is_buildable": false,
+      "name": "Shipped Butterbeer Cart",
+      "num_parts": 2
+    },
+    {
+      "id": 799150,
+      "is_buildable": true,
+      "name": "Shipped Extra Parts - Oops",
+      "num_parts": 94
+    },
+    {
+      "id": 799073,
+      "is_buildable": false,
+      "name": "Shipped Parts Globus Mundi",
+      "num_parts": 0
+    },
+    {
+      "id": 799067,
+      "is_buildable": false,
+      "name": "Shipped Parts Madam Malkins",
+      "num_parts": 1
+    },
+    {
+      "id": 799068,
+      "is_buildable": false,
+      "name": "Shipped Parts Magical Menagerie",
+      "num_parts": 0
+    },
+    {
+      "id": 799145,
+      "is_buildable": false,
+      "name": "Shipped Parts Owl Emporium",
+      "num_parts": 2
+    },
+    {
+      "id": 799069,
+      "is_buildable": false,
+      "name": "Shipped Parts Slug & Jiggers",
+      "num_parts": 1
+    },
+    {
+      "id": 808879,
+      "is_buildable": false,
+      "name": "Unnamed Part List",
+      "num_parts": 0
+    }
+  ]
+}

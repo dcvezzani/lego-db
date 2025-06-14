@@ -1,0 +1,1051 @@
+{
+  "count": 30,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "list_id": 799200,
+      "quantity": 1,
+      "part": {
+        "part_num": "3009",
+        "name": "Brick 1 x 6",
+        "part_cat_id": 11,
+        "part_url": "https://rebrickable.com/parts/3009/brick-1-x-6/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/300901.jpg",
+        "external_ids": {
+          "BrickLink": ["3009"],
+          "BrickOwl": ["340943"],
+          "Brickset": ["3009"],
+          "LDraw": ["3009"],
+          "LEGO": ["3009"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 272,
+        "name": "Dark Blue",
+        "rgb": "0A3463",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [63], "ext_descrs": [["Dark Blue"]] },
+          "BrickOwl": { "ext_ids": [48], "ext_descrs": [["Dark Blue"]] },
+          "LEGO": { "ext_ids": [140], "ext_descrs": [["Earth blue"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["navyblue"]] },
+          "LDraw": { "ext_ids": [272], "ext_descrs": [["Dark_Blue"]] }
+        }
+      }
+    },
+    {
+      "list_id": 799200,
+      "quantity": 2,
+      "part": {
+        "part_num": "65092",
+        "name": "Plate Special 8-Sided Crystal/Gem 1 x 1 x 2/3",
+        "part_cat_id": 33,
+        "part_url": "https://rebrickable.com/parts/65092/plate-special-8-sided-crystalgem-1-x-1-x-23/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6287309.jpg",
+        "external_ids": {
+          "BrickLink": ["65092"],
+          "BrickOwl": ["554884"],
+          "Brickset": ["65092"],
+          "LDraw": ["65092"],
+          "LEGO": ["65092"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 1055,
+        "name": "Opal Trans-Clear",
+        "rgb": "FCFCFC",
+        "is_trans": true,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [228], "ext_descrs": [["Satin White"]] },
+          "LEGO": {
+            "ext_ids": [360],
+            "ext_descrs": [["Transparent with Opalescence", "Tr. Opalescence"]]
+          },
+          "LDraw": { "ext_ids": [360], "ext_descrs": [["Opal_Trans_Clear"]] },
+          "BrickOwl": { "ext_ids": [193], "ext_descrs": [["Transparent Opal"]] }
+        }
+      }
+    },
+    {
+      "list_id": 799200,
+      "quantity": 1,
+      "part": {
+        "part_num": "60623",
+        "name": "Door 1 x 4 x 6 with 4 Panes and Stud Handle",
+        "part_cat_id": 16,
+        "part_url": "https://rebrickable.com/parts/60623/door-1-x-4-x-6-with-4-panes-and-stud-handle/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4521943.jpg",
+        "external_ids": {
+          "BrickLink": ["60623"],
+          "BrickOwl": ["33657"],
+          "Brickset": ["60623"],
+          "LDraw": ["60623"],
+          "LEGO": ["60623"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 25,
+        "name": "Orange",
+        "rgb": "FE8A18",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [4], "ext_descrs": [["Orange"]] },
+          "BrickOwl": { "ext_ids": [80], "ext_descrs": [["Orange"]] },
+          "LEGO": {
+            "ext_ids": [106],
+            "ext_descrs": [["Bright orange", "BR.ORANGE"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["orange"]] },
+          "LDraw": { "ext_ids": [25], "ext_descrs": [["Orange"]] }
+        }
+      }
+    },
+    {
+      "list_id": 799200,
+      "quantity": 2,
+      "part": {
+        "part_num": "3068bpr9860",
+        "name": "Tile 2 x 2 with Groove and Fire Burst print",
+        "part_cat_id": 19,
+        "part_url": "https://rebrickable.com/parts/3068bpr9860/tile-2-x-2-with-groove-and-fire-burst-print/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/photos/27/3068bpr9860-27-70673ad1-dad3-4c6d-94a2-86bcc82c3425.jpg",
+        "external_ids": { "BrickLink": ["3068pb1547"], "BrickOwl": ["440098"] },
+        "print_of": "3068b"
+      },
+      "color": {
+        "id": 27,
+        "name": "Lime",
+        "rgb": "BBE90B",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [34], "ext_descrs": [["Lime"]] },
+          "BrickOwl": { "ext_ids": [70], "ext_descrs": [["Lime"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["lime"]] },
+          "LDraw": { "ext_ids": [27], "ext_descrs": [["Lime"]] },
+          "LEGO": {
+            "ext_ids": [119],
+            "ext_descrs": [["Br. yellowish green", "BR.YEL-GREEN", "BRIGHT YELLOWISH GREEN"]]
+          }
+        }
+      }
+    },
+    {
+      "list_id": 799200,
+      "quantity": 2,
+      "part": {
+        "part_num": "3068bpr9846",
+        "name": "Tile 2 x 2 with Kaboom print",
+        "part_cat_id": 19,
+        "part_url": "https://rebrickable.com/parts/3068bpr9846/tile-2-x-2-with-kaboom-print/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/photos/25/3068bpr9846-25-e8fddca1-1695-43bd-bb8e-b0791e52d907.jpg",
+        "external_ids": {
+          "BrickLink": ["3068pb1587"],
+          "BrickOwl": ["194806"],
+          "Brickset": ["75457"],
+          "LEGO": ["75457"]
+        },
+        "print_of": "3068b"
+      },
+      "color": {
+        "id": 25,
+        "name": "Orange",
+        "rgb": "FE8A18",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [4], "ext_descrs": [["Orange"]] },
+          "BrickOwl": { "ext_ids": [80], "ext_descrs": [["Orange"]] },
+          "LEGO": {
+            "ext_ids": [106],
+            "ext_descrs": [["Bright orange", "BR.ORANGE"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["orange"]] },
+          "LDraw": { "ext_ids": [25], "ext_descrs": [["Orange"]] }
+        }
+      }
+    },
+    {
+      "list_id": 799200,
+      "quantity": 1,
+      "part": {
+        "part_num": "2714b",
+        "name": "Bar 8L - Two Stop Rings / One Pin, Technic Figure Ski Pole [Flat End]",
+        "part_cat_id": 32,
+        "part_url": "https://rebrickable.com/parts/2714b/bar-8l-two-stop-rings-one-pin-technic-figure-ski-pole-flat-end/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/71/2714b.png",
+        "external_ids": {
+          "BrickLink": ["2714b"],
+          "BrickOwl": ["974018"],
+          "Brickset": ["2714", "64865"],
+          "LDraw": ["2714b"],
+          "LEGO": ["2714", "64865"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [11], "ext_descrs": [["Black"]] },
+          "BrickOwl": { "ext_ids": [38], "ext_descrs": [["Black"]] },
+          "LEGO": {
+            "ext_ids": [26, 342],
+            "ext_descrs": [["Black", "BLACK"], ["CONDUCT. BLACK"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["black"]] },
+          "LDraw": {
+            "ext_ids": [0, 256],
+            "ext_descrs": [["Black"], ["Rubber_Black"]]
+          }
+        }
+      }
+    },
+    {
+      "list_id": 799200,
+      "quantity": 1,
+      "part": {
+        "part_num": "60596",
+        "name": "Door Frame 1 x 4 x 6 Type 2",
+        "part_cat_id": 16,
+        "part_url": "https://rebrickable.com/parts/60596/door-frame-1-x-4-x-6-type-2/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4521254.jpg",
+        "external_ids": {
+          "BrickLink": ["60596"],
+          "BrickOwl": ["693022"],
+          "Brickset": ["40289", "60596", "66190"],
+          "LDraw": ["60596"],
+          "LEGO": ["40289", "60596", "66190"],
+          "Peeron": ["60506"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 28,
+        "name": "Dark Tan",
+        "rgb": "958A73",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [69], "ext_descrs": [["Dark Tan"]] },
+          "BrickOwl": { "ext_ids": [57], "ext_descrs": [["Dark Tan"]] },
+          "LEGO": { "ext_ids": [138], "ext_descrs": [["Sand yellow"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["dktan"]] },
+          "LDraw": { "ext_ids": [28], "ext_descrs": [["Dark_Tan"]] }
+        }
+      }
+    },
+    {
+      "list_id": 799200,
+      "quantity": 3,
+      "part": {
+        "part_num": "60601pr0007",
+        "name": "Glass for Window 1 x 2 x 2 Flat with Newspapers print",
+        "part_cat_id": 16,
+        "part_url": "https://rebrickable.com/parts/60601pr0007/glass-for-window-1-x-2-x-2-flat-with-newspapers-print/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6275973.jpg",
+        "external_ids": {
+          "BrickLink": ["60601pb020"],
+          "BrickOwl": ["570292"],
+          "Brickset": ["63774"],
+          "LDraw": ["60601px1"],
+          "LEGO": ["63774"]
+        },
+        "print_of": "60601"
+      },
+      "color": {
+        "id": 19,
+        "name": "Tan",
+        "rgb": "E4CD9E",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [2], "ext_descrs": [["Tan"]] },
+          "BrickOwl": { "ext_ids": [89], "ext_descrs": [["Tan"]] },
+          "LEGO": {
+            "ext_ids": [5],
+            "ext_descrs": [["Brick yellow", "BRICK-YEL"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["tan"]] },
+          "LDraw": { "ext_ids": [19], "ext_descrs": [["Tan"]] }
+        }
+      }
+    },
+    {
+      "list_id": 799200,
+      "quantity": 2,
+      "part": {
+        "part_num": "98138pr0014",
+        "name": "Tile Round 1 x 1 with Padlock Print",
+        "part_cat_id": 67,
+        "part_url": "https://rebrickable.com/parts/98138pr0014/tile-round-1-x-1-with-padlock-print/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6039771.jpg",
+        "external_ids": {
+          "BrickLink": ["98138pb012"],
+          "BrickOwl": ["508452"],
+          "Brickset": ["14465"],
+          "LDraw": ["98138p08"],
+          "LEGO": ["14465"]
+        },
+        "print_of": "98138"
+      },
+      "color": {
+        "id": 297,
+        "name": "Pearl Gold",
+        "rgb": "AA7F2E",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [115], "ext_descrs": [["Pearl Gold"]] },
+          "BrickOwl": { "ext_ids": [120], "ext_descrs": [["Pearl Gold"]] },
+          "LEGO": { "ext_ids": [297], "ext_descrs": [["Warm Gold", "W.GOLD"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["pearlgold"]] },
+          "LDraw": { "ext_ids": [297], "ext_descrs": [["Pearl_Gold"]] }
+        }
+      }
+    },
+    {
+      "list_id": 799200,
+      "quantity": 1,
+      "part": {
+        "part_num": "43888",
+        "name": "Support Round 1 x 1 x 6 Solid Pillar",
+        "part_cat_id": 34,
+        "part_url": "https://rebrickable.com/parts/43888/support-round-1-x-1-x-6-solid-pillar/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4520612.jpg",
+        "external_ids": {
+          "BrickLink": ["43888"],
+          "BrickOwl": ["219213"],
+          "Brickset": ["43888"],
+          "LDraw": ["43888"],
+          "LEGO": ["43888"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 71,
+        "name": "Light Bluish Gray",
+        "rgb": "A0A5A9",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": {
+            "ext_ids": [86],
+            "ext_descrs": [["Light Bluish Gray"]]
+          },
+          "BrickOwl": {
+            "ext_ids": [64],
+            "ext_descrs": [["Medium Stone Gray"]]
+          },
+          "LEGO": {
+            "ext_ids": [194],
+            "ext_descrs": [["Medium stone grey", "MED. ST-GREY"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["mdstone"]] },
+          "LDraw": { "ext_ids": [71], "ext_descrs": [["Light_Bluish_Gray"]] }
+        }
+      }
+    },
+    {
+      "list_id": 799200,
+      "quantity": 1,
+      "part": {
+        "part_num": "90398",
+        "name": "Minifig Trophy Statuette",
+        "part_cat_id": 13,
+        "part_url": "https://rebrickable.com/parts/90398/minifig-trophy-statuette/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6138682.jpg",
+        "external_ids": {
+          "BrickLink": ["90398"],
+          "BrickOwl": ["234865"],
+          "Brickset": ["12685", "53017", "90398", "91824", "93546", "95103"],
+          "LDraw": ["90398"],
+          "LEGO": ["12685", "53017", "90398", "91824", "93546", "95103"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 378,
+        "name": "Sand Green",
+        "rgb": "A0BCAC",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [48], "ext_descrs": [["Sand Green"]] },
+          "BrickOwl": { "ext_ids": [18], "ext_descrs": [["Sand Green"]] },
+          "LEGO": { "ext_ids": [151], "ext_descrs": [["Sand green"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["sandgreen"]] },
+          "LDraw": { "ext_ids": [378], "ext_descrs": [["Sand_Green"]] }
+        }
+      }
+    },
+    {
+      "list_id": 799200,
+      "quantity": 1,
+      "part": {
+        "part_num": "32474",
+        "name": "Technic Ball Joint",
+        "part_cat_id": 26,
+        "part_url": "https://rebrickable.com/parts/32474/technic-ball-joint/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4143539.jpg",
+        "external_ids": {
+          "BrickLink": ["32474"],
+          "BrickOwl": ["74666"],
+          "Brickset": ["18384", "32474"],
+          "LDraw": ["32474"],
+          "LEGO": ["18384", "32474"],
+          "Peeron": ["203"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 1000,
+        "name": "Glow in Dark White",
+        "rgb": "D9D9D9",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": {
+            "ext_ids": [159],
+            "ext_descrs": [["Glow in Dark White"]]
+          },
+          "BrickOwl": {
+            "ext_ids": [129],
+            "ext_descrs": [["Glow in the Dark White"]]
+          },
+          "LEGO": { "ext_ids": [329], "ext_descrs": [["WHITE GLOW"]] },
+          "LDraw": { "ext_ids": [329], "ext_descrs": [["Glow_In_Dark_White"]] }
+        }
+      }
+    },
+    {
+      "list_id": 799200,
+      "quantity": 1,
+      "part": {
+        "part_num": "26603pr0073",
+        "name": "Tile 2 x 3 with 'MISSING' Cat Poster Print",
+        "part_cat_id": 19,
+        "part_url": "https://rebrickable.com/parts/26603pr0073/tile-2-x-3-with-missing-cat-poster-print/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6399221.jpg",
+        "external_ids": {
+          "BrickLink": ["26603pb216"],
+          "BrickOwl": ["800993"],
+          "Brickset": ["100084"],
+          "LEGO": ["100084"]
+        },
+        "print_of": "26603"
+      },
+      "color": {
+        "id": 15,
+        "name": "White",
+        "rgb": "FFFFFF",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [1], "ext_descrs": [["White"]] },
+          "BrickOwl": { "ext_ids": [92], "ext_descrs": [["White"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["white"]] },
+          "LDraw": { "ext_ids": [15], "ext_descrs": [["White"]] },
+          "LEGO": { "ext_ids": [1], "ext_descrs": [["White", "WHITE V.3"]] }
+        }
+      }
+    },
+    {
+      "list_id": 799200,
+      "quantity": 19,
+      "part": {
+        "part_num": "60592",
+        "name": "Window 1 x 2 x 2 Flat Front",
+        "part_cat_id": 16,
+        "part_url": "https://rebrickable.com/parts/60592/window-1-x-2-x-2-flat-front/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4521210.jpg",
+        "external_ids": {
+          "BrickLink": ["60592"],
+          "BrickOwl": ["407693"],
+          "Brickset": ["60592", "79128"],
+          "LDraw": ["60592"],
+          "LEGO": ["60592", "79128"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 3,
+        "name": "Dark Turquoise",
+        "rgb": "008F9B",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [39], "ext_descrs": [["Dark Turquoise"]] },
+          "BrickOwl": { "ext_ids": [58], "ext_descrs": [["Dark Turquoise"]] },
+          "LEGO": {
+            "ext_ids": [107],
+            "ext_descrs": [["Bright bluish green", "BR.BLUEGREEN"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["teal"]] },
+          "LDraw": { "ext_ids": [3], "ext_descrs": [["Dark_Turquoise"]] }
+        }
+      }
+    },
+    {
+      "list_id": 799200,
+      "quantity": 1,
+      "part": {
+        "part_num": "87079pr0252",
+        "name": "Tile 2 x 4 with Bright Light Blue and Dark Red Geometric Design Print",
+        "part_cat_id": 19,
+        "part_url": "https://rebrickable.com/parts/87079pr0252/tile-2-x-4-with-bright-light-blue-and-dark-red-geometric-design-print/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6345178.jpg",
+        "external_ids": {
+          "BrickLink": ["87079pb1034"],
+          "BrickOwl": ["669873"],
+          "Brickset": ["78503"],
+          "LEGO": ["78503"]
+        },
+        "print_of": "87079"
+      },
+      "color": {
+        "id": 272,
+        "name": "Dark Blue",
+        "rgb": "0A3463",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [63], "ext_descrs": [["Dark Blue"]] },
+          "BrickOwl": { "ext_ids": [48], "ext_descrs": [["Dark Blue"]] },
+          "LEGO": { "ext_ids": [140], "ext_descrs": [["Earth blue"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["navyblue"]] },
+          "LDraw": { "ext_ids": [272], "ext_descrs": [["Dark_Blue"]] }
+        }
+      }
+    },
+    {
+      "list_id": 799200,
+      "quantity": 1,
+      "part": {
+        "part_num": "37776",
+        "name": "Equipment Lantern",
+        "part_cat_id": 27,
+        "part_url": "https://rebrickable.com/parts/37776/equipment-lantern/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6227901.jpg",
+        "external_ids": {
+          "BrickLink": ["37776"],
+          "BrickOwl": ["215294"],
+          "Brickset": ["37776"],
+          "LDraw": ["37776"],
+          "LEGO": ["37776"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 297,
+        "name": "Pearl Gold",
+        "rgb": "AA7F2E",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [115], "ext_descrs": [["Pearl Gold"]] },
+          "BrickOwl": { "ext_ids": [120], "ext_descrs": [["Pearl Gold"]] },
+          "LEGO": { "ext_ids": [297], "ext_descrs": [["Warm Gold", "W.GOLD"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["pearlgold"]] },
+          "LDraw": { "ext_ids": [297], "ext_descrs": [["Pearl_Gold"]] }
+        }
+      }
+    },
+    {
+      "list_id": 799200,
+      "quantity": 1,
+      "part": {
+        "part_num": "6124",
+        "name": "Equipment Magic Wand",
+        "part_cat_id": 27,
+        "part_url": "https://rebrickable.com/parts/6124/equipment-magic-wand/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4186371.jpg",
+        "external_ids": {
+          "BrickLink": ["6124"],
+          "BrickOwl": ["391888"],
+          "Brickset": ["28681", "6124"],
+          "LDraw": ["28681", "6124", "6124b"],
+          "LEGO": ["28681", "6124"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 42,
+        "name": "Trans-Neon Green",
+        "rgb": "F8F184",
+        "is_trans": true,
+        "external_ids": {
+          "BrickLink": {
+            "ext_ids": [16],
+            "ext_descrs": [["Trans-Neon Green"]]
+          },
+          "BrickOwl": {
+            "ext_ids": [103],
+            "ext_descrs": [["Transparent Neon Green"]]
+          },
+          "LEGO": {
+            "ext_ids": [49],
+            "ext_descrs": [["Tr. Flu. Green", "TR.FL.GREEN"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["trneongreen"]] },
+          "LDraw": { "ext_ids": [42], "ext_descrs": [["Trans_Neon_Green"]] }
+        }
+      }
+    },
+    {
+      "list_id": 799200,
+      "quantity": 1,
+      "part": {
+        "part_num": "15470",
+        "name": "Plate Round 1 x 1 Swirled Top",
+        "part_cat_id": 21,
+        "part_url": "https://rebrickable.com/parts/15470/plate-round-1-x-1-swirled-top/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6060795.jpg",
+        "external_ids": {
+          "BrickLink": ["15470"],
+          "BrickOwl": ["444000"],
+          "Brickset": ["15470", "3338"],
+          "LDraw": ["15470"],
+          "LEGO": ["15470", "3338"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 179,
+        "name": "Flat Silver",
+        "rgb": "898788",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [95], "ext_descrs": [["Flat Silver"]] },
+          "BrickOwl": { "ext_ids": [117], "ext_descrs": [["Flat Silver"]] },
+          "LEGO": {
+            "ext_ids": [315],
+            "ext_descrs": [["Silver Metallic", "SILVER MET."]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["pearlsilver"]] },
+          "LDraw": { "ext_ids": [179], "ext_descrs": [["Pearl_Silver"]] }
+        }
+      }
+    },
+    {
+      "list_id": 799200,
+      "quantity": 1,
+      "part": {
+        "part_num": "48336",
+        "name": "Plate Special 1 x 2 [Side Handle Closed Ends]",
+        "part_cat_id": 9,
+        "part_url": "https://rebrickable.com/parts/48336/plate-special-1-x-2-side-handle-closed-ends/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4225201.jpg",
+        "external_ids": {
+          "BrickLink": ["48336"],
+          "BrickOwl": ["808084"],
+          "Brickset": ["48336"],
+          "LDraw": ["48336"],
+          "LEGO": ["48336"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 297,
+        "name": "Pearl Gold",
+        "rgb": "AA7F2E",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [115], "ext_descrs": [["Pearl Gold"]] },
+          "BrickOwl": { "ext_ids": [120], "ext_descrs": [["Pearl Gold"]] },
+          "LEGO": { "ext_ids": [297], "ext_descrs": [["Warm Gold", "W.GOLD"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["pearlgold"]] },
+          "LDraw": { "ext_ids": [297], "ext_descrs": [["Pearl_Gold"]] }
+        }
+      }
+    },
+    {
+      "list_id": 799200,
+      "quantity": 2,
+      "part": {
+        "part_num": "3023",
+        "name": "Plate 1 x 2",
+        "part_cat_id": 14,
+        "part_url": "https://rebrickable.com/parts/3023/plate-1-x-2/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/302326.jpg",
+        "external_ids": {
+          "BrickLink": ["3023"],
+          "BrickOwl": ["44980"],
+          "Brickset": ["28653", "3023", "6225"],
+          "LDraw": ["28653", "3023b"],
+          "LEGO": ["28653", "3023", "6225"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 85,
+        "name": "Dark Purple",
+        "rgb": "3F3691",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [89], "ext_descrs": [["Dark Purple"]] },
+          "BrickOwl": { "ext_ids": [55], "ext_descrs": [["Dark Purple"]] },
+          "LEGO": {
+            "ext_ids": [268],
+            "ext_descrs": [["Medium Lilac", "M. LILAC"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["mdlilac"]] },
+          "LDraw": { "ext_ids": [85], "ext_descrs": [["Medium_Lilac"]] }
+        }
+      }
+    },
+    {
+      "list_id": 799200,
+      "quantity": 1,
+      "part": {
+        "part_num": "3023",
+        "name": "Plate 1 x 2",
+        "part_cat_id": 14,
+        "part_url": "https://rebrickable.com/parts/3023/plate-1-x-2/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/302326.jpg",
+        "external_ids": {
+          "BrickLink": ["3023"],
+          "BrickOwl": ["44980"],
+          "Brickset": ["28653", "3023", "6225"],
+          "LDraw": ["28653", "3023b"],
+          "LEGO": ["28653", "3023", "6225"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 25,
+        "name": "Orange",
+        "rgb": "FE8A18",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [4], "ext_descrs": [["Orange"]] },
+          "BrickOwl": { "ext_ids": [80], "ext_descrs": [["Orange"]] },
+          "LEGO": {
+            "ext_ids": [106],
+            "ext_descrs": [["Bright orange", "BR.ORANGE"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["orange"]] },
+          "LDraw": { "ext_ids": [25], "ext_descrs": [["Orange"]] }
+        }
+      }
+    },
+    {
+      "list_id": 799200,
+      "quantity": 2,
+      "part": {
+        "part_num": "6124",
+        "name": "Equipment Magic Wand",
+        "part_cat_id": 27,
+        "part_url": "https://rebrickable.com/parts/6124/equipment-magic-wand/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4186371.jpg",
+        "external_ids": {
+          "BrickLink": ["6124"],
+          "BrickOwl": ["391888"],
+          "Brickset": ["28681", "6124"],
+          "LDraw": ["28681", "6124", "6124b"],
+          "LEGO": ["28681", "6124"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 45,
+        "name": "Trans-Dark Pink",
+        "rgb": "DF6695",
+        "is_trans": true,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [50], "ext_descrs": [["Trans-Dark Pink"]] },
+          "BrickOwl": {
+            "ext_ids": [99],
+            "ext_descrs": [["Transparent Dark Pink"]]
+          },
+          "LEGO": {
+            "ext_ids": [113],
+            "ext_descrs": [["Tr. Medi. reddish violet", "TR.ML.R.VIOL"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["trpink"]] },
+          "LDraw": { "ext_ids": [37], "ext_descrs": [["Trans_Dark_Pink"]] }
+        }
+      }
+    },
+    {
+      "list_id": 799200,
+      "quantity": 1,
+      "part": {
+        "part_num": "11211",
+        "name": "Brick Special 1 x 2 with 2 Studs on 1 Side",
+        "part_cat_id": 5,
+        "part_url": "https://rebrickable.com/parts/11211/brick-special-1-x-2-with-2-studs-on-1-side/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6015344.jpg",
+        "external_ids": {
+          "BrickLink": ["11211"],
+          "BrickOwl": ["929279"],
+          "Brickset": ["11211"],
+          "LDraw": ["11211"],
+          "LEGO": ["11211"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [11], "ext_descrs": [["Black"]] },
+          "BrickOwl": { "ext_ids": [38], "ext_descrs": [["Black"]] },
+          "LEGO": {
+            "ext_ids": [26, 342],
+            "ext_descrs": [["Black", "BLACK"], ["CONDUCT. BLACK"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["black"]] },
+          "LDraw": {
+            "ext_ids": [0, 256],
+            "ext_descrs": [["Black"], ["Rubber_Black"]]
+          }
+        }
+      }
+    },
+    {
+      "list_id": 799200,
+      "quantity": 5,
+      "part": {
+        "part_num": "32828",
+        "name": "Plate Round 1 x 1 with Hollow Stud and Horizontal Bar 1L",
+        "part_cat_id": 9,
+        "part_url": "https://rebrickable.com/parts/32828/plate-round-1-x-1-with-hollow-stud-and-horizontal-bar-1l/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6196548.jpg",
+        "external_ids": {
+          "BrickLink": ["32828"],
+          "BrickOwl": ["801009"],
+          "Brickset": ["32828"],
+          "LDraw": ["32828"],
+          "LEGO": ["32828"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [11], "ext_descrs": [["Black"]] },
+          "BrickOwl": { "ext_ids": [38], "ext_descrs": [["Black"]] },
+          "LEGO": {
+            "ext_ids": [26, 342],
+            "ext_descrs": [["Black", "BLACK"], ["CONDUCT. BLACK"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["black"]] },
+          "LDraw": {
+            "ext_ids": [0, 256],
+            "ext_descrs": [["Black"], ["Rubber_Black"]]
+          }
+        }
+      }
+    },
+    {
+      "list_id": 799200,
+      "quantity": 1,
+      "part": {
+        "part_num": "3024",
+        "name": "Plate 1 x 1",
+        "part_cat_id": 14,
+        "part_url": "https://rebrickable.com/parts/3024/plate-1-x-1/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/302401.jpg",
+        "external_ids": {
+          "BrickLink": ["3024"],
+          "BrickOwl": ["322944"],
+          "Brickset": ["28554", "30008", "3024", "63326"],
+          "LDraw": ["3024"],
+          "LEGO": ["28554", "30008", "3024", "63326"],
+          "Peeron": ["30008"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 72,
+        "name": "Dark Bluish Gray",
+        "rgb": "6C6E68",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": {
+            "ext_ids": [85],
+            "ext_descrs": [["Dark Bluish Gray"]]
+          },
+          "BrickOwl": { "ext_ids": [50], "ext_descrs": [["Dark Stone Gray"]] },
+          "LEGO": {
+            "ext_ids": [199],
+            "ext_descrs": [["Dark stone grey", "DK. ST. GREY"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["dkstone"]] },
+          "LDraw": { "ext_ids": [72], "ext_descrs": [["Dark_Bluish_Gray"]] }
+        }
+      }
+    },
+    {
+      "list_id": 799200,
+      "quantity": 1,
+      "part": {
+        "part_num": "4079b",
+        "name": "Seat / Chair 2 x 2 with Center Sprue Mark",
+        "part_cat_id": 36,
+        "part_url": "https://rebrickable.com/parts/4079b/seat-chair-2-x-2-with-center-sprue-mark/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/photos/70/4079b-70-ec18905d-b06c-460c-ae0c-d8cf5c8c5698.jpg",
+        "external_ids": {
+          "BrickLink": ["4079"],
+          "BrickOwl": ["58985"],
+          "Brickset": ["4079"],
+          "LEGO": ["4079"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 70,
+        "name": "Reddish Brown",
+        "rgb": "582A12",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [88], "ext_descrs": [["Reddish Brown"]] },
+          "BrickOwl": { "ext_ids": [82], "ext_descrs": [["Reddish Brown"]] },
+          "LEGO": {
+            "ext_ids": [192],
+            "ext_descrs": [["Reddish Brown", "RED. BROWN"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["redbrown"]] },
+          "LDraw": { "ext_ids": [70], "ext_descrs": [["Reddish_Brown"]] }
+        }
+      }
+    },
+    {
+      "list_id": 799200,
+      "quantity": 2,
+      "part": {
+        "part_num": "98138pr0255",
+        "name": "Tile Round 1 x 1 with Christmas Cookie print",
+        "part_cat_id": 67,
+        "part_url": "https://rebrickable.com/parts/98138pr0255/tile-round-1-x-1-with-christmas-cookie-print/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6361753.jpg",
+        "external_ids": {
+          "BrickLink": ["98138pb256"],
+          "BrickOwl": ["188595"],
+          "Brickset": ["80121"],
+          "LDraw": ["98138p8i"],
+          "LEGO": ["80121"]
+        },
+        "print_of": "98138"
+      },
+      "color": {
+        "id": 19,
+        "name": "Tan",
+        "rgb": "E4CD9E",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [2], "ext_descrs": [["Tan"]] },
+          "BrickOwl": { "ext_ids": [89], "ext_descrs": [["Tan"]] },
+          "LEGO": {
+            "ext_ids": [5],
+            "ext_descrs": [["Brick yellow", "BRICK-YEL"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["tan"]] },
+          "LDraw": { "ext_ids": [19], "ext_descrs": [["Tan"]] }
+        }
+      }
+    },
+    {
+      "list_id": 799200,
+      "quantity": 1,
+      "part": {
+        "part_num": "38014",
+        "name": "Equipment Cup / Teacup",
+        "part_cat_id": 27,
+        "part_url": "https://rebrickable.com/parts/38014/equipment-cup-teacup/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6235083.jpg",
+        "external_ids": {
+          "BrickLink": ["38014"],
+          "BrickOwl": ["852852"],
+          "Brickset": ["38014"],
+          "LDraw": ["38014"],
+          "LEGO": ["38014"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 15,
+        "name": "White",
+        "rgb": "FFFFFF",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [1], "ext_descrs": [["White"]] },
+          "BrickOwl": { "ext_ids": [92], "ext_descrs": [["White"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["white"]] },
+          "LDraw": { "ext_ids": [15], "ext_descrs": [["White"]] },
+          "LEGO": { "ext_ids": [1], "ext_descrs": [["White", "WHITE V.3"]] }
+        }
+      }
+    },
+    {
+      "list_id": 799200,
+      "quantity": 1,
+      "part": {
+        "part_num": "3068bpr0445",
+        "name": "Tile 2 x 2 with Groove and Elephants Silhouette, Sunset print",
+        "part_cat_id": 19,
+        "part_url": "https://rebrickable.com/parts/3068bpr0445/tile-2-x-2-with-groove-and-elephants-silhouette-sunset-print/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6331411.jpg",
+        "external_ids": {
+          "BrickLink": ["3068pb1644"],
+          "BrickOwl": ["779953"],
+          "Brickset": ["75504"],
+          "LDraw": ["3068bp0t"],
+          "LEGO": ["75504"]
+        },
+        "print_of": "3068b"
+      },
+      "color": {
+        "id": 19,
+        "name": "Tan",
+        "rgb": "E4CD9E",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [2], "ext_descrs": [["Tan"]] },
+          "BrickOwl": { "ext_ids": [89], "ext_descrs": [["Tan"]] },
+          "LEGO": {
+            "ext_ids": [5],
+            "ext_descrs": [["Brick yellow", "BRICK-YEL"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["tan"]] },
+          "LDraw": { "ext_ids": [19], "ext_descrs": [["Tan"]] }
+        }
+      }
+    },
+    {
+      "list_id": 799200,
+      "quantity": 1,
+      "part": {
+        "part_num": "14769pr1054",
+        "name": "Tile Round 2 x 2 with Bottom Stud Holder with Roman Numerals Clock Print",
+        "part_cat_id": 67,
+        "part_url": "https://rebrickable.com/parts/14769pr1054/tile-round-2-x-2-with-bottom-stud-holder-with-roman-numerals-clock-print/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6157942.jpg",
+        "external_ids": {
+          "BrickLink": ["14769pb133"],
+          "BrickOwl": ["339283"],
+          "Brickset": ["27347"],
+          "LDraw": ["14769p0a"],
+          "LEGO": ["27347"]
+        },
+        "print_of": "14769"
+      },
+      "color": {
+        "id": 70,
+        "name": "Reddish Brown",
+        "rgb": "582A12",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [88], "ext_descrs": [["Reddish Brown"]] },
+          "BrickOwl": { "ext_ids": [82], "ext_descrs": [["Reddish Brown"]] },
+          "LEGO": {
+            "ext_ids": [192],
+            "ext_descrs": [["Reddish Brown", "RED. BROWN"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["redbrown"]] },
+          "LDraw": { "ext_ids": [70], "ext_descrs": [["Reddish_Brown"]] }
+        }
+      }
+    }
+  ]
+}

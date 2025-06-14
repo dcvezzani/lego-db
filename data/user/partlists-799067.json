@@ -1,0 +1,45 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "list_id": 799067,
+      "quantity": 1,
+      "part": {
+        "part_num": "15712",
+        "name": "Tile Special 1 x 1 with Clip with Rounded Edges",
+        "part_cat_id": 15,
+        "part_url": "https://rebrickable.com/parts/15712/tile-special-1-x-1-with-clip-with-rounded-edges/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6066102.jpg",
+        "external_ids": {
+          "BrickLink": ["15712"],
+          "BrickOwl": ["859237"],
+          "Brickset": ["15712", "44842"],
+          "LDraw": ["15712"],
+          "LEGO": ["15712", "44842"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [11], "ext_descrs": [["Black"]] },
+          "BrickOwl": { "ext_ids": [38], "ext_descrs": [["Black"]] },
+          "LEGO": {
+            "ext_ids": [26, 342],
+            "ext_descrs": [["Black", "BLACK"], ["CONDUCT. BLACK"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["black"]] },
+          "LDraw": {
+            "ext_ids": [0, 256],
+            "ext_descrs": [["Black"], ["Rubber_Black"]]
+          }
+        }
+      }
+    }
+  ]
+}

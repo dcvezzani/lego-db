@@ -1,0 +1,106 @@
+docker run --name my-postgres -e POSTGRES_PASSWORD=pass.123 -d postgres
+
+docker exec -it my-postgres psql -U postgres -c "SHOW listen_addresses;"
+docker exec -it my-postgres sed -i "s/#listen_addresses = 'localhost'/listen_addresses = '*'/" /var/lib/postgresql/data/postgresql.conf
+
+
+docker exec -it my-postgres psql -U postgres
+
+docker exec -it my-postgres psql -U postgres -c "CREATE DATABASE mydatabase;"
+docker exec -it my-postgres psql -U postgres -c "CREATE USER app_admin WITH PASSWORD 'pass.123'";
+docker exec -it my-postgres psql -U postgres -c "GRANT ALL PRIVILEGES ON DATABASE mydatabase TO app_admin;";
+
+docker exec -it my-postgres psql -U app_admin -d mydatabase
+
+
+docker exec -it my-postgres psql -U postgres -c "CREATE DATABASE mylegos";
+docker exec -it my-postgres psql -U postgres -c "CREATE USER mylegos_admin WITH PASSWORD 'pass.123'";
+
+# docker exec -it my-postgres psql -U postgres -c "ALTER TABLE themes OWNER TO mylegos_admin";
+
+docker exec -it my-postgres psql -U postgres -c "GRANT ALL PRIVILEGES ON DATABASE mylegos TO mylegos_admin";
+# docker exec -it my-postgres psql -U postgres -c "GRANT ALL PRIVILEGES ON SCHEMA public TO mylegos_admin";
+
+docker exec -it my-postgres psql -U postgres -c "CREATE DATABASE mylegos";
+docker exec -it my-postgres psql -U postgres -c "CREATE USER mylegos_admin WITH PASSWORD 'pass.123'";
+docker exec -it my-postgres psql -U postgres -d mylegos
+
+CREATE TABLE themes (
+    id INT PRIMARY KEY,
+    name VARCHAR(255) NOT NULL,
+    parent_id INT NULL,
+    FOREIGN KEY (parent_id) REFERENCES themes(id)
+);
+
+SELECT rolname, rolsuper, rolcreatedb FROM pg_roles WHERE rolname = 'mylegos_admin';
+
+ALTER SCHEMA public OWNER TO myuser;
+ALTER DATABASE mylegos OWNER TO mylegos_admin;
+
+SELECT schema_name, schema_owner FROM information_schema.schemata WHERE schema_name = 'public';
+
+SELECT datname, datdba, rolname
+FROM pg_database
+JOIN pg_roles ON pg_database.datdba = pg_roles.oid
+WHERE datname = current_database();
+
+ALTER TABLE themes OWNER TO myuser;
+
+docker exec -it my-postgres psql -U postgres -c "GRANT pg_read_server_files TO mylegos_admin"
+
+docker exec -it my-postgres psql -U mylegos_admin -d mylegos -c "COPY themes(id, name, parent_id) FROM '/tmp/lego/themes.csv' DELIMITER ',' CSV HEADER"
+
+docker exec -it my-postgres psql -U mylegos_admin -d mylegos -c "COPY colors(id,name,rgb,is_trans,num_parts,num_sets,y1,y2) FROM '/tmp/lego/colors.csv' DELIMITER ',' CSV HEADER"
+
+CREATE TABLE colors (
+    id INT PRIMARY KEY,
+    name VARCHAR(255) NOT NULL,
+    rgb CHAR(6) NOT NULL,
+    is_trans BOOLEAN NOT NULL,
+    num_parts INT NOT NULL,
+    num_sets INT NOT NULL,
+    y1 INT,
+    y2 INT
+);
+
+CREATE TABLE part_categories (
+    id INT PRIMARY KEY,
+    name VARCHAR(255) NOT NULL
+);
+
+docker exec -it my-postgres psql -U mylegos_admin -d mylegos -c "COPY part_categories(id,name) FROM '/tmp/lego/part_categories.csv' DELIMITER ',' CSV HEADER"
+
+
+CREATE TABLE parts (
+    part_num VARCHAR(50) PRIMARY KEY,    
+    name VARCHAR(255) NOT NULL,
+    part_cat_id INT NOT NULL,
+    part_material VARCHAR(100),
+    FOREIGN KEY (part_cat_id) REFERENCES part_categories(id)
+);
+
+docker exec -it my-postgres psql -U mylegos_admin -d mylegos -c "COPY parts(part_num,name,part_cat_id,part_material) FROM '/tmp/lego/parts.csv' DELIMITER ',' CSV HEADER"
+
+CREATE TABLE part_relationships (
+    rel_type VARCHAR(1) NOT NULL,
+    child_part_num VARCHAR(20) NOT NULL,
+    parent_part_num VARCHAR(20) NOT NULL
+    FOREIGN KEY (child_part_num) REFERENCES parts(part_num),
+    FOREIGN KEY (parent_part_num) REFERENCES parts(part_num)
+);
+
+docker exec -it my-postgres psql -U mylegos_admin -d mylegos -f /tmp/lego/legos.sql
+
+docker exec -it my-postgres psql -U mylegos_admin -d mylegos -c "COPY themes(id, name, parent_id) FROM '/tmp/lego/themes.csv' DELIMITER ',' CSV HEADER"
+docker exec -it my-postgres psql -U mylegos_admin -d mylegos -c "COPY colors(id,name,rgb,is_trans,num_parts,num_sets,y1,y2) FROM '/tmp/lego/colors.csv' DELIMITER ',' CSV HEADER"
+docker exec -it my-postgres psql -U mylegos_admin -d mylegos -c "COPY part_categories(id,name) FROM '/tmp/lego/part_categories.csv' DELIMITER ',' CSV HEADER"
+docker exec -it my-postgres psql -U mylegos_admin -d mylegos -c "COPY parts(part_num,name,part_cat_id,part_material) FROM '/tmp/lego/parts.csv' DELIMITER ',' CSV HEADER"
+docker exec -it my-postgres psql -U mylegos_admin -d mylegos -c "COPY part_relationships(rel_type,child_part_num,parent_part_num) FROM '/tmp/lego/part_relationships.csv' DELIMITER ',' CSV HEADER"
+docker exec -it my-postgres psql -U mylegos_admin -d mylegos -c "COPY elements(element_id,part_num,color_id,design_id) FROM '/tmp/lego/elements.csv' DELIMITER ',' CSV HEADER"
+docker exec -it my-postgres psql -U mylegos_admin -d mylegos -c "COPY sets(set_num,name,year,theme_id,num_parts,img_url) FROM '/tmp/lego/sets.csv' DELIMITER ',' CSV HEADER"
+docker exec -it my-postgres psql -U mylegos_admin -d mylegos -c "COPY minifigs(fig_num,name,num_parts,img_url) FROM '/tmp/lego/minifigs.csv' DELIMITER ',' CSV HEADER"
+docker exec -it my-postgres psql -U mylegos_admin -d mylegos -c "COPY inventories(id,version,set_num) FROM '/tmp/lego/inventories.csv' DELIMITER ',' CSV HEADER"
+docker exec -it my-postgres psql -U mylegos_admin -d mylegos -c "COPY inventory_parts(inventory_id,part_num,color_id,quantity,is_spare,img_url) FROM '/tmp/lego/inventory_parts.csv' DELIMITER ',' CSV HEADER"
+docker exec -it my-postgres psql -U mylegos_admin -d mylegos -c "COPY inventory_sets(inventory_id,set_num,quantity) FROM '/tmp/lego/inventory_sets.csv' DELIMITER ',' CSV HEADER"
+docker exec -it my-postgres psql -U mylegos_admin -d mylegos -c "COPY inventory_minifigs(inventory_id,fig_num,quantity) FROM '/tmp/lego/inventory_minifigs.csv' DELIMITER ',' CSV HEADER"
+

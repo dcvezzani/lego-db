@@ -1,0 +1,2220 @@
+{
+  "count": 62,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "list_id": 797897,
+      "quantity": 1,
+      "part": {
+        "part_num": "3010",
+        "name": "Brick 1 x 4",
+        "part_cat_id": 11,
+        "part_url": "https://rebrickable.com/parts/3010/brick-1-x-4/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/301001.jpg",
+        "external_ids": {
+          "BrickLink": ["3010"],
+          "BrickOwl": ["752369"],
+          "Brickset": ["3010"],
+          "LDraw": ["3010"],
+          "LEGO": ["3010"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [5], "ext_descrs": [["Red"]] },
+          "BrickOwl": { "ext_ids": [81], "ext_descrs": [["Red"]] },
+          "LEGO": { "ext_ids": [21], "ext_descrs": [["Bright red", "BR.RED"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["red"]] },
+          "LDraw": { "ext_ids": [4], "ext_descrs": [["Red"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 9,
+      "part": {
+        "part_num": "3069b",
+        "name": "Tile 1 x 2 with Groove",
+        "part_cat_id": 19,
+        "part_url": "https://rebrickable.com/parts/3069b/tile-1-x-2-with-groove/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/306901.jpg",
+        "external_ids": {
+          "BrickLink": ["3069"],
+          "BrickOwl": ["487300"],
+          "Brickset": ["30070", "3069", "35386", "37293", "45880", "54285", "63286"],
+          "LDraw": ["3069b"],
+          "LEGO": ["15598", "30070", "3069", "35386", "37293", "45880", "54285", "59489", "63286"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 15,
+        "name": "White",
+        "rgb": "FFFFFF",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [1], "ext_descrs": [["White"]] },
+          "BrickOwl": { "ext_ids": [92], "ext_descrs": [["White"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["white"]] },
+          "LDraw": { "ext_ids": [15], "ext_descrs": [["White"]] },
+          "LEGO": { "ext_ids": [1], "ext_descrs": [["White", "WHITE V.3"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 2,
+      "part": {
+        "part_num": "3069b",
+        "name": "Tile 1 x 2 with Groove",
+        "part_cat_id": 19,
+        "part_url": "https://rebrickable.com/parts/3069b/tile-1-x-2-with-groove/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/306901.jpg",
+        "external_ids": {
+          "BrickLink": ["3069"],
+          "BrickOwl": ["487300"],
+          "Brickset": ["30070", "3069", "35386", "37293", "45880", "54285", "63286"],
+          "LDraw": ["3069b"],
+          "LEGO": ["15598", "30070", "3069", "35386", "37293", "45880", "54285", "59489", "63286"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [3], "ext_descrs": [["Yellow"]] },
+          "BrickOwl": { "ext_ids": [93], "ext_descrs": [["Yellow"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["yellow"]] },
+          "LDraw": { "ext_ids": [14], "ext_descrs": [["Yellow"]] },
+          "LEGO": {
+            "ext_ids": [24],
+            "ext_descrs": [["Bright yellow", "BR.YEL", "BRIGHT YELLOW, VERSION 2"]]
+          }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 1,
+      "part": {
+        "part_num": "3069b",
+        "name": "Tile 1 x 2 with Groove",
+        "part_cat_id": 19,
+        "part_url": "https://rebrickable.com/parts/3069b/tile-1-x-2-with-groove/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/306901.jpg",
+        "external_ids": {
+          "BrickLink": ["3069"],
+          "BrickOwl": ["487300"],
+          "Brickset": ["30070", "3069", "35386", "37293", "45880", "54285", "63286"],
+          "LDraw": ["3069b"],
+          "LEGO": ["15598", "30070", "3069", "35386", "37293", "45880", "54285", "59489", "63286"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 71,
+        "name": "Light Bluish Gray",
+        "rgb": "A0A5A9",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": {
+            "ext_ids": [86],
+            "ext_descrs": [["Light Bluish Gray"]]
+          },
+          "BrickOwl": {
+            "ext_ids": [64],
+            "ext_descrs": [["Medium Stone Gray"]]
+          },
+          "LEGO": {
+            "ext_ids": [194],
+            "ext_descrs": [["Medium stone grey", "MED. ST-GREY"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["mdstone"]] },
+          "LDraw": { "ext_ids": [71], "ext_descrs": [["Light_Bluish_Gray"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 4,
+      "part": {
+        "part_num": "3069b",
+        "name": "Tile 1 x 2 with Groove",
+        "part_cat_id": 19,
+        "part_url": "https://rebrickable.com/parts/3069b/tile-1-x-2-with-groove/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/306901.jpg",
+        "external_ids": {
+          "BrickLink": ["3069"],
+          "BrickOwl": ["487300"],
+          "Brickset": ["30070", "3069", "35386", "37293", "45880", "54285", "63286"],
+          "LDraw": ["3069b"],
+          "LEGO": ["15598", "30070", "3069", "35386", "37293", "45880", "54285", "59489", "63286"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 27,
+        "name": "Lime",
+        "rgb": "BBE90B",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [34], "ext_descrs": [["Lime"]] },
+          "BrickOwl": { "ext_ids": [70], "ext_descrs": [["Lime"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["lime"]] },
+          "LDraw": { "ext_ids": [27], "ext_descrs": [["Lime"]] },
+          "LEGO": {
+            "ext_ids": [119],
+            "ext_descrs": [["Br. yellowish green", "BR.YEL-GREEN", "BRIGHT YELLOWISH GREEN"]]
+          }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 1,
+      "part": {
+        "part_num": "3069b",
+        "name": "Tile 1 x 2 with Groove",
+        "part_cat_id": 19,
+        "part_url": "https://rebrickable.com/parts/3069b/tile-1-x-2-with-groove/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/306901.jpg",
+        "external_ids": {
+          "BrickLink": ["3069"],
+          "BrickOwl": ["487300"],
+          "Brickset": ["30070", "3069", "35386", "37293", "45880", "54285", "63286"],
+          "LDraw": ["3069b"],
+          "LEGO": ["15598", "30070", "3069", "35386", "37293", "45880", "54285", "59489", "63286"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [5], "ext_descrs": [["Red"]] },
+          "BrickOwl": { "ext_ids": [81], "ext_descrs": [["Red"]] },
+          "LEGO": { "ext_ids": [21], "ext_descrs": [["Bright red", "BR.RED"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["red"]] },
+          "LDraw": { "ext_ids": [4], "ext_descrs": [["Red"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 1,
+      "part": {
+        "part_num": "3070b",
+        "name": "Tile 1 x 1 with Groove",
+        "part_cat_id": 19,
+        "part_url": "https://rebrickable.com/parts/3070b/tile-1-x-1-with-groove/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/307001.jpg",
+        "external_ids": {
+          "BrickLink": ["3070"],
+          "BrickOwl": ["55275"],
+          "Brickset": ["112412", "30039", "3070", "3070b", "35403", "39727", "53836"],
+          "LDraw": ["3070b"],
+          "LEGO": ["112412", "30039", "3070", "35403", "39727", "53836"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 72,
+        "name": "Dark Bluish Gray",
+        "rgb": "6C6E68",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": {
+            "ext_ids": [85],
+            "ext_descrs": [["Dark Bluish Gray"]]
+          },
+          "BrickOwl": { "ext_ids": [50], "ext_descrs": [["Dark Stone Gray"]] },
+          "LEGO": {
+            "ext_ids": [199],
+            "ext_descrs": [["Dark stone grey", "DK. ST. GREY"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["dkstone"]] },
+          "LDraw": { "ext_ids": [72], "ext_descrs": [["Dark_Bluish_Gray"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 1,
+      "part": {
+        "part_num": "3070b",
+        "name": "Tile 1 x 1 with Groove",
+        "part_cat_id": 19,
+        "part_url": "https://rebrickable.com/parts/3070b/tile-1-x-1-with-groove/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/307001.jpg",
+        "external_ids": {
+          "BrickLink": ["3070"],
+          "BrickOwl": ["55275"],
+          "Brickset": ["112412", "30039", "3070", "3070b", "35403", "39727", "53836"],
+          "LDraw": ["3070b"],
+          "LEGO": ["112412", "30039", "3070", "35403", "39727", "53836"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [5], "ext_descrs": [["Red"]] },
+          "BrickOwl": { "ext_ids": [81], "ext_descrs": [["Red"]] },
+          "LEGO": { "ext_ids": [21], "ext_descrs": [["Bright red", "BR.RED"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["red"]] },
+          "LDraw": { "ext_ids": [4], "ext_descrs": [["Red"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 2,
+      "part": {
+        "part_num": "3245c",
+        "name": "Brick 1 x 2 x 2 with Inside Stud Holder",
+        "part_cat_id": 11,
+        "part_url": "https://rebrickable.com/parts/3245c/brick-1-x-2-x-2-with-inside-stud-holder/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4113261.jpg",
+        "external_ids": {
+          "BrickLink": ["3245c"],
+          "BrickOwl": ["978353"],
+          "Brickset": ["3245"],
+          "LDraw": ["3245c"],
+          "LEGO": ["3245"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [3], "ext_descrs": [["Yellow"]] },
+          "BrickOwl": { "ext_ids": [93], "ext_descrs": [["Yellow"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["yellow"]] },
+          "LDraw": { "ext_ids": [14], "ext_descrs": [["Yellow"]] },
+          "LEGO": {
+            "ext_ids": [24],
+            "ext_descrs": [["Bright yellow", "BR.YEL", "BRIGHT YELLOW, VERSION 2"]]
+          }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 1,
+      "part": {
+        "part_num": "6091",
+        "name": "Brick Curved 1 x 2 x 1 1/3 with Curved Top",
+        "part_cat_id": 37,
+        "part_url": "https://rebrickable.com/parts/6091/brick-curved-1-x-2-x-1-13-with-curved-top/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/609101.jpg",
+        "external_ids": {
+          "BrickLink": ["6091"],
+          "BrickOwl": ["60351"],
+          "Brickset": ["32807", "6091"],
+          "LDraw": ["6091"],
+          "LEGO": ["32807", "6091"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 19,
+        "name": "Tan",
+        "rgb": "E4CD9E",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [2], "ext_descrs": [["Tan"]] },
+          "BrickOwl": { "ext_ids": [89], "ext_descrs": [["Tan"]] },
+          "LEGO": {
+            "ext_ids": [5],
+            "ext_descrs": [["Brick yellow", "BRICK-YEL"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["tan"]] },
+          "LDraw": { "ext_ids": [19], "ext_descrs": [["Tan"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 1,
+      "part": {
+        "part_num": "6091",
+        "name": "Brick Curved 1 x 2 x 1 1/3 with Curved Top",
+        "part_cat_id": 37,
+        "part_url": "https://rebrickable.com/parts/6091/brick-curved-1-x-2-x-1-13-with-curved-top/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/609101.jpg",
+        "external_ids": {
+          "BrickLink": ["6091"],
+          "BrickOwl": ["60351"],
+          "Brickset": ["32807", "6091"],
+          "LDraw": ["6091"],
+          "LEGO": ["32807", "6091"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [5], "ext_descrs": [["Red"]] },
+          "BrickOwl": { "ext_ids": [81], "ext_descrs": [["Red"]] },
+          "LEGO": { "ext_ids": [21], "ext_descrs": [["Bright red", "BR.RED"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["red"]] },
+          "LDraw": { "ext_ids": [4], "ext_descrs": [["Red"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 1,
+      "part": {
+        "part_num": "3004",
+        "name": "Brick 1 x 2",
+        "part_cat_id": 11,
+        "part_url": "https://rebrickable.com/parts/3004/brick-1-x-2/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/300401.jpg",
+        "external_ids": {
+          "BrickLink": ["3004"],
+          "BrickOwl": ["442413"],
+          "Brickset": ["3004", "93792"],
+          "LDraw": ["3004"],
+          "LEGO": ["3004", "93792"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [5], "ext_descrs": [["Red"]] },
+          "BrickOwl": { "ext_ids": [81], "ext_descrs": [["Red"]] },
+          "LEGO": { "ext_ids": [21], "ext_descrs": [["Bright red", "BR.RED"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["red"]] },
+          "LDraw": { "ext_ids": [4], "ext_descrs": [["Red"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 1,
+      "part": {
+        "part_num": "15571",
+        "name": "Slope 45° 2 x 1 Triple with Inside Stud Holder",
+        "part_cat_id": 3,
+        "part_url": "https://rebrickable.com/parts/15571/slope-45-2-x-1-triple-with-inside-stud-holder/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6051508.jpg",
+        "external_ids": {
+          "BrickLink": ["15571"],
+          "BrickOwl": ["533110"],
+          "Brickset": ["15571", "78821"],
+          "LDraw": ["15571"],
+          "LEGO": ["15571", "78821"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [11], "ext_descrs": [["Black"]] },
+          "BrickOwl": { "ext_ids": [38], "ext_descrs": [["Black"]] },
+          "LEGO": {
+            "ext_ids": [26, 342],
+            "ext_descrs": [["Black", "BLACK"], ["CONDUCT. BLACK"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["black"]] },
+          "LDraw": {
+            "ext_ids": [0, 256],
+            "ext_descrs": [["Black"], ["Rubber_Black"]]
+          }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 2,
+      "part": {
+        "part_num": "3068b",
+        "name": "Tile 2 x 2 with Groove",
+        "part_cat_id": 19,
+        "part_url": "https://rebrickable.com/parts/3068b/tile-2-x-2-with-groove/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/306826.jpg",
+        "external_ids": {
+          "BrickLink": ["3068"],
+          "BrickOwl": ["462122"],
+          "Brickset": ["1136", "3068", "63327", "78814"],
+          "LDraw": ["3068b"],
+          "LEGO": ["1136", "3068", "63327", "78814"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 72,
+        "name": "Dark Bluish Gray",
+        "rgb": "6C6E68",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": {
+            "ext_ids": [85],
+            "ext_descrs": [["Dark Bluish Gray"]]
+          },
+          "BrickOwl": { "ext_ids": [50], "ext_descrs": [["Dark Stone Gray"]] },
+          "LEGO": {
+            "ext_ids": [199],
+            "ext_descrs": [["Dark stone grey", "DK. ST. GREY"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["dkstone"]] },
+          "LDraw": { "ext_ids": [72], "ext_descrs": [["Dark_Bluish_Gray"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 5,
+      "part": {
+        "part_num": "3068b",
+        "name": "Tile 2 x 2 with Groove",
+        "part_cat_id": 19,
+        "part_url": "https://rebrickable.com/parts/3068b/tile-2-x-2-with-groove/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/306826.jpg",
+        "external_ids": {
+          "BrickLink": ["3068"],
+          "BrickOwl": ["462122"],
+          "Brickset": ["1136", "3068", "63327", "78814"],
+          "LDraw": ["3068b"],
+          "LEGO": ["1136", "3068", "63327", "78814"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [11], "ext_descrs": [["Black"]] },
+          "BrickOwl": { "ext_ids": [38], "ext_descrs": [["Black"]] },
+          "LEGO": {
+            "ext_ids": [26, 342],
+            "ext_descrs": [["Black", "BLACK"], ["CONDUCT. BLACK"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["black"]] },
+          "LDraw": {
+            "ext_ids": [0, 256],
+            "ext_descrs": [["Black"], ["Rubber_Black"]]
+          }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 1,
+      "part": {
+        "part_num": "3068b",
+        "name": "Tile 2 x 2 with Groove",
+        "part_cat_id": 19,
+        "part_url": "https://rebrickable.com/parts/3068b/tile-2-x-2-with-groove/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/306826.jpg",
+        "external_ids": {
+          "BrickLink": ["3068"],
+          "BrickOwl": ["462122"],
+          "Brickset": ["1136", "3068", "63327", "78814"],
+          "LDraw": ["3068b"],
+          "LEGO": ["1136", "3068", "63327", "78814"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 71,
+        "name": "Light Bluish Gray",
+        "rgb": "A0A5A9",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": {
+            "ext_ids": [86],
+            "ext_descrs": [["Light Bluish Gray"]]
+          },
+          "BrickOwl": {
+            "ext_ids": [64],
+            "ext_descrs": [["Medium Stone Gray"]]
+          },
+          "LEGO": {
+            "ext_ids": [194],
+            "ext_descrs": [["Medium stone grey", "MED. ST-GREY"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["mdstone"]] },
+          "LDraw": { "ext_ids": [71], "ext_descrs": [["Light_Bluish_Gray"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 1,
+      "part": {
+        "part_num": "3068b",
+        "name": "Tile 2 x 2 with Groove",
+        "part_cat_id": 19,
+        "part_url": "https://rebrickable.com/parts/3068b/tile-2-x-2-with-groove/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/306826.jpg",
+        "external_ids": {
+          "BrickLink": ["3068"],
+          "BrickOwl": ["462122"],
+          "Brickset": ["1136", "3068", "63327", "78814"],
+          "LDraw": ["3068b"],
+          "LEGO": ["1136", "3068", "63327", "78814"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [5], "ext_descrs": [["Red"]] },
+          "BrickOwl": { "ext_ids": [81], "ext_descrs": [["Red"]] },
+          "LEGO": { "ext_ids": [21], "ext_descrs": [["Bright red", "BR.RED"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["red"]] },
+          "LDraw": { "ext_ids": [4], "ext_descrs": [["Red"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 7,
+      "part": {
+        "part_num": "3068b",
+        "name": "Tile 2 x 2 with Groove",
+        "part_cat_id": 19,
+        "part_url": "https://rebrickable.com/parts/3068b/tile-2-x-2-with-groove/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/306826.jpg",
+        "external_ids": {
+          "BrickLink": ["3068"],
+          "BrickOwl": ["462122"],
+          "Brickset": ["1136", "3068", "63327", "78814"],
+          "LDraw": ["3068b"],
+          "LEGO": ["1136", "3068", "63327", "78814"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 15,
+        "name": "White",
+        "rgb": "FFFFFF",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [1], "ext_descrs": [["White"]] },
+          "BrickOwl": { "ext_ids": [92], "ext_descrs": [["White"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["white"]] },
+          "LDraw": { "ext_ids": [15], "ext_descrs": [["White"]] },
+          "LEGO": { "ext_ids": [1], "ext_descrs": [["White", "WHITE V.3"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 5,
+      "part": {
+        "part_num": "14769",
+        "name": "Tile Round 2 x 2 with Bottom Stud Holder",
+        "part_cat_id": 67,
+        "part_url": "https://rebrickable.com/parts/14769/tile-round-2-x-2-with-bottom-stud-holder/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6052200.jpg",
+        "external_ids": {
+          "BrickLink": ["14769"],
+          "BrickOwl": ["333997"],
+          "Brickset": ["14769", "83056"],
+          "LDraw": ["14769"],
+          "LEGO": ["14769", "83056"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 27,
+        "name": "Lime",
+        "rgb": "BBE90B",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [34], "ext_descrs": [["Lime"]] },
+          "BrickOwl": { "ext_ids": [70], "ext_descrs": [["Lime"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["lime"]] },
+          "LDraw": { "ext_ids": [27], "ext_descrs": [["Lime"]] },
+          "LEGO": {
+            "ext_ids": [119],
+            "ext_descrs": [["Br. yellowish green", "BR.YEL-GREEN", "BRIGHT YELLOWISH GREEN"]]
+          }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 5,
+      "part": {
+        "part_num": "14769",
+        "name": "Tile Round 2 x 2 with Bottom Stud Holder",
+        "part_cat_id": 67,
+        "part_url": "https://rebrickable.com/parts/14769/tile-round-2-x-2-with-bottom-stud-holder/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6052200.jpg",
+        "external_ids": {
+          "BrickLink": ["14769"],
+          "BrickOwl": ["333997"],
+          "Brickset": ["14769", "83056"],
+          "LDraw": ["14769"],
+          "LEGO": ["14769", "83056"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [11], "ext_descrs": [["Black"]] },
+          "BrickOwl": { "ext_ids": [38], "ext_descrs": [["Black"]] },
+          "LEGO": {
+            "ext_ids": [26, 342],
+            "ext_descrs": [["Black", "BLACK"], ["CONDUCT. BLACK"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["black"]] },
+          "LDraw": {
+            "ext_ids": [0, 256],
+            "ext_descrs": [["Black"], ["Rubber_Black"]]
+          }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 1,
+      "part": {
+        "part_num": "87079",
+        "name": "Tile 2 x 4 with Groove",
+        "part_cat_id": 19,
+        "part_url": "https://rebrickable.com/parts/87079/tile-2-x-4-with-groove/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4560183.jpg",
+        "external_ids": {
+          "BrickLink": ["87079"],
+          "BrickOwl": ["26386"],
+          "Brickset": ["38879", "87079"],
+          "LDraw": ["87079"],
+          "LEGO": ["38879", "87079"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 71,
+        "name": "Light Bluish Gray",
+        "rgb": "A0A5A9",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": {
+            "ext_ids": [86],
+            "ext_descrs": [["Light Bluish Gray"]]
+          },
+          "BrickOwl": {
+            "ext_ids": [64],
+            "ext_descrs": [["Medium Stone Gray"]]
+          },
+          "LEGO": {
+            "ext_ids": [194],
+            "ext_descrs": [["Medium stone grey", "MED. ST-GREY"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["mdstone"]] },
+          "LDraw": { "ext_ids": [71], "ext_descrs": [["Light_Bluish_Gray"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 1,
+      "part": {
+        "part_num": "87079",
+        "name": "Tile 2 x 4 with Groove",
+        "part_cat_id": 19,
+        "part_url": "https://rebrickable.com/parts/87079/tile-2-x-4-with-groove/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4560183.jpg",
+        "external_ids": {
+          "BrickLink": ["87079"],
+          "BrickOwl": ["26386"],
+          "Brickset": ["38879", "87079"],
+          "LDraw": ["87079"],
+          "LEGO": ["38879", "87079"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 70,
+        "name": "Reddish Brown",
+        "rgb": "582A12",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [88], "ext_descrs": [["Reddish Brown"]] },
+          "BrickOwl": { "ext_ids": [82], "ext_descrs": [["Reddish Brown"]] },
+          "LEGO": {
+            "ext_ids": [192],
+            "ext_descrs": [["Reddish Brown", "RED. BROWN"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["redbrown"]] },
+          "LDraw": { "ext_ids": [70], "ext_descrs": [["Reddish_Brown"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 2,
+      "part": {
+        "part_num": "3003",
+        "name": "Brick 2 x 2",
+        "part_cat_id": 11,
+        "part_url": "https://rebrickable.com/parts/3003/brick-2-x-2/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/300301.jpg",
+        "external_ids": {
+          "BrickLink": ["3003"],
+          "BrickOwl": ["939628"],
+          "Brickset": ["15591", "3003", "62404"],
+          "LDraw": ["3003"],
+          "LEGO": ["15591", "3003", "62404"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 27,
+        "name": "Lime",
+        "rgb": "BBE90B",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [34], "ext_descrs": [["Lime"]] },
+          "BrickOwl": { "ext_ids": [70], "ext_descrs": [["Lime"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["lime"]] },
+          "LDraw": { "ext_ids": [27], "ext_descrs": [["Lime"]] },
+          "LEGO": {
+            "ext_ids": [119],
+            "ext_descrs": [["Br. yellowish green", "BR.YEL-GREEN", "BRIGHT YELLOWISH GREEN"]]
+          }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 1,
+      "part": {
+        "part_num": "3003",
+        "name": "Brick 2 x 2",
+        "part_cat_id": 11,
+        "part_url": "https://rebrickable.com/parts/3003/brick-2-x-2/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/300301.jpg",
+        "external_ids": {
+          "BrickLink": ["3003"],
+          "BrickOwl": ["939628"],
+          "Brickset": ["15591", "3003", "62404"],
+          "LDraw": ["3003"],
+          "LEGO": ["15591", "3003", "62404"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 71,
+        "name": "Light Bluish Gray",
+        "rgb": "A0A5A9",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": {
+            "ext_ids": [86],
+            "ext_descrs": [["Light Bluish Gray"]]
+          },
+          "BrickOwl": {
+            "ext_ids": [64],
+            "ext_descrs": [["Medium Stone Gray"]]
+          },
+          "LEGO": {
+            "ext_ids": [194],
+            "ext_descrs": [["Medium stone grey", "MED. ST-GREY"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["mdstone"]] },
+          "LDraw": { "ext_ids": [71], "ext_descrs": [["Light_Bluish_Gray"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 4,
+      "part": {
+        "part_num": "3039",
+        "name": "Slope 45° 2 x 2",
+        "part_cat_id": 3,
+        "part_url": "https://rebrickable.com/parts/3039/slope-45-2-x-2/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/303921.jpg",
+        "external_ids": {
+          "BrickLink": ["3039"],
+          "BrickOwl": ["822931"],
+          "Brickset": ["3039", "35277", "6227", "63341"],
+          "LDraw": ["3039"],
+          "LEGO": ["3039", "35277", "6227", "63341"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [5], "ext_descrs": [["Red"]] },
+          "BrickOwl": { "ext_ids": [81], "ext_descrs": [["Red"]] },
+          "LEGO": { "ext_ids": [21], "ext_descrs": [["Bright red", "BR.RED"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["red"]] },
+          "LDraw": { "ext_ids": [4], "ext_descrs": [["Red"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 1,
+      "part": {
+        "part_num": "76959",
+        "name": "Slope Inverted 45° 2 x 2 [Round Hollow Bottom Pin, Bar-sized Stud Holes]",
+        "part_cat_id": 3,
+        "part_url": "https://rebrickable.com/parts/76959/slope-inverted-45-2-x-2-round-hollow-bottom-pin-bar-sized-stud-holes/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6366391.jpg",
+        "external_ids": {
+          "BrickLink": ["76959"],
+          "BrickOwl": ["1273361"],
+          "Brickset": ["76959"],
+          "LDraw": ["76959"],
+          "LEGO": ["76959"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [11], "ext_descrs": [["Black"]] },
+          "BrickOwl": { "ext_ids": [38], "ext_descrs": [["Black"]] },
+          "LEGO": {
+            "ext_ids": [26, 342],
+            "ext_descrs": [["Black", "BLACK"], ["CONDUCT. BLACK"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["black"]] },
+          "LDraw": {
+            "ext_ids": [0, 256],
+            "ext_descrs": [["Black"], ["Rubber_Black"]]
+          }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 1,
+      "part": {
+        "part_num": "3678b",
+        "name": "Slope 65° 2 x 2 x 2 with Bottom Tube",
+        "part_cat_id": 3,
+        "part_url": "https://rebrickable.com/parts/3678b/slope-65-2-x-2-x-2-with-bottom-tube/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4234534.jpg",
+        "external_ids": {
+          "BrickLink": ["3678b"],
+          "BrickOwl": ["806527"],
+          "Brickset": ["3678"],
+          "LDraw": ["3678b"],
+          "LEGO": ["3678"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 72,
+        "name": "Dark Bluish Gray",
+        "rgb": "6C6E68",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": {
+            "ext_ids": [85],
+            "ext_descrs": [["Dark Bluish Gray"]]
+          },
+          "BrickOwl": { "ext_ids": [50], "ext_descrs": [["Dark Stone Gray"]] },
+          "LEGO": {
+            "ext_ids": [199],
+            "ext_descrs": [["Dark stone grey", "DK. ST. GREY"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["dkstone"]] },
+          "LDraw": { "ext_ids": [72], "ext_descrs": [["Dark_Bluish_Gray"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 2,
+      "part": {
+        "part_num": "47457",
+        "name": "Brick Curved 2 x 2 x 2/3 Two Studs and Curved Slope End",
+        "part_cat_id": 37,
+        "part_url": "https://rebrickable.com/parts/47457/brick-curved-2-x-2-x-23-two-studs-and-curved-slope-end/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4218696.jpg",
+        "external_ids": {
+          "BrickLink": ["47457"],
+          "BrickOwl": ["699532"],
+          "Brickset": ["47457", "78882"],
+          "LDraw": ["47457"],
+          "LEGO": ["47457", "78882"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 72,
+        "name": "Dark Bluish Gray",
+        "rgb": "6C6E68",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": {
+            "ext_ids": [85],
+            "ext_descrs": [["Dark Bluish Gray"]]
+          },
+          "BrickOwl": { "ext_ids": [50], "ext_descrs": [["Dark Stone Gray"]] },
+          "LEGO": {
+            "ext_ids": [199],
+            "ext_descrs": [["Dark stone grey", "DK. ST. GREY"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["dkstone"]] },
+          "LDraw": { "ext_ids": [72], "ext_descrs": [["Dark_Bluish_Gray"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 4,
+      "part": {
+        "part_num": "47457",
+        "name": "Brick Curved 2 x 2 x 2/3 Two Studs and Curved Slope End",
+        "part_cat_id": 37,
+        "part_url": "https://rebrickable.com/parts/47457/brick-curved-2-x-2-x-23-two-studs-and-curved-slope-end/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4218696.jpg",
+        "external_ids": {
+          "BrickLink": ["47457"],
+          "BrickOwl": ["699532"],
+          "Brickset": ["47457", "78882"],
+          "LDraw": ["47457"],
+          "LEGO": ["47457", "78882"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [5], "ext_descrs": [["Red"]] },
+          "BrickOwl": { "ext_ids": [81], "ext_descrs": [["Red"]] },
+          "LEGO": { "ext_ids": [21], "ext_descrs": [["Bright red", "BR.RED"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["red"]] },
+          "LDraw": { "ext_ids": [4], "ext_descrs": [["Red"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 3,
+      "part": {
+        "part_num": "30603",
+        "name": "Slope 2 x 2 No Studs, with 3 Side Pistons Raised Edges",
+        "part_cat_id": 3,
+        "part_url": "https://rebrickable.com/parts/30603/slope-2-x-2-no-studs-with-3-side-pistons-raised-edges/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4163524.jpg",
+        "external_ids": {
+          "BrickLink": ["30603"],
+          "BrickOwl": ["69306"],
+          "Brickset": ["30603"],
+          "LDraw": ["30603"],
+          "LEGO": ["30603"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [11], "ext_descrs": [["Black"]] },
+          "BrickOwl": { "ext_ids": [38], "ext_descrs": [["Black"]] },
+          "LEGO": {
+            "ext_ids": [26, 342],
+            "ext_descrs": [["Black", "BLACK"], ["CONDUCT. BLACK"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["black"]] },
+          "LDraw": {
+            "ext_ids": [0, 256],
+            "ext_descrs": [["Black"], ["Rubber_Black"]]
+          }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 2,
+      "part": {
+        "part_num": "30602",
+        "name": "Slope Curved 2 x 2 with Lip, No Studs",
+        "part_cat_id": 37,
+        "part_url": "https://rebrickable.com/parts/30602/slope-curved-2-x-2-with-lip-no-studs/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4143875.jpg",
+        "external_ids": {
+          "BrickLink": ["30602"],
+          "BrickOwl": ["457645"],
+          "Brickset": ["28659", "30602", "47904", "4973", "54415"],
+          "LDraw": ["30602"],
+          "LEGO": ["28659", "30602", "47904", "4973", "54415"],
+          "Peeron": ["47904"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [5], "ext_descrs": [["Red"]] },
+          "BrickOwl": { "ext_ids": [81], "ext_descrs": [["Red"]] },
+          "LEGO": { "ext_ids": [21], "ext_descrs": [["Bright red", "BR.RED"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["red"]] },
+          "LDraw": { "ext_ids": [4], "ext_descrs": [["Red"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 3,
+      "part": {
+        "part_num": "30602",
+        "name": "Slope Curved 2 x 2 with Lip, No Studs",
+        "part_cat_id": 37,
+        "part_url": "https://rebrickable.com/parts/30602/slope-curved-2-x-2-with-lip-no-studs/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4143875.jpg",
+        "external_ids": {
+          "BrickLink": ["30602"],
+          "BrickOwl": ["457645"],
+          "Brickset": ["28659", "30602", "47904", "4973", "54415"],
+          "LDraw": ["30602"],
+          "LEGO": ["28659", "30602", "47904", "4973", "54415"],
+          "Peeron": ["47904"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 25,
+        "name": "Orange",
+        "rgb": "FE8A18",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [4], "ext_descrs": [["Orange"]] },
+          "BrickOwl": { "ext_ids": [80], "ext_descrs": [["Orange"]] },
+          "LEGO": {
+            "ext_ids": [106],
+            "ext_descrs": [["Bright orange", "BR.ORANGE"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["orange"]] },
+          "LDraw": { "ext_ids": [25], "ext_descrs": [["Orange"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 1,
+      "part": {
+        "part_num": "30602",
+        "name": "Slope Curved 2 x 2 with Lip, No Studs",
+        "part_cat_id": 37,
+        "part_url": "https://rebrickable.com/parts/30602/slope-curved-2-x-2-with-lip-no-studs/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4143875.jpg",
+        "external_ids": {
+          "BrickLink": ["30602"],
+          "BrickOwl": ["457645"],
+          "Brickset": ["28659", "30602", "47904", "4973", "54415"],
+          "LDraw": ["30602"],
+          "LEGO": ["28659", "30602", "47904", "4973", "54415"],
+          "Peeron": ["47904"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 15,
+        "name": "White",
+        "rgb": "FFFFFF",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [1], "ext_descrs": [["White"]] },
+          "BrickOwl": { "ext_ids": [92], "ext_descrs": [["White"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["white"]] },
+          "LDraw": { "ext_ids": [15], "ext_descrs": [["White"]] },
+          "LEGO": { "ext_ids": [1], "ext_descrs": [["White", "WHITE V.3"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 1,
+      "part": {
+        "part_num": "30602",
+        "name": "Slope Curved 2 x 2 with Lip, No Studs",
+        "part_cat_id": 37,
+        "part_url": "https://rebrickable.com/parts/30602/slope-curved-2-x-2-with-lip-no-studs/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4143875.jpg",
+        "external_ids": {
+          "BrickLink": ["30602"],
+          "BrickOwl": ["457645"],
+          "Brickset": ["28659", "30602", "47904", "4973", "54415"],
+          "LDraw": ["30602"],
+          "LEGO": ["28659", "30602", "47904", "4973", "54415"],
+          "Peeron": ["47904"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [11], "ext_descrs": [["Black"]] },
+          "BrickOwl": { "ext_ids": [38], "ext_descrs": [["Black"]] },
+          "LEGO": {
+            "ext_ids": [26, 342],
+            "ext_descrs": [["Black", "BLACK"], ["CONDUCT. BLACK"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["black"]] },
+          "LDraw": {
+            "ext_ids": [0, 256],
+            "ext_descrs": [["Black"], ["Rubber_Black"]]
+          }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 1,
+      "part": {
+        "part_num": "30602",
+        "name": "Slope Curved 2 x 2 with Lip, No Studs",
+        "part_cat_id": 37,
+        "part_url": "https://rebrickable.com/parts/30602/slope-curved-2-x-2-with-lip-no-studs/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4143875.jpg",
+        "external_ids": {
+          "BrickLink": ["30602"],
+          "BrickOwl": ["457645"],
+          "Brickset": ["28659", "30602", "47904", "4973", "54415"],
+          "LDraw": ["30602"],
+          "LEGO": ["28659", "30602", "47904", "4973", "54415"],
+          "Peeron": ["47904"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 1,
+        "name": "Blue",
+        "rgb": "0055BF",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [7], "ext_descrs": [["Blue"]] },
+          "BrickOwl": { "ext_ids": [39], "ext_descrs": [["Blue"]] },
+          "LEGO": {
+            "ext_ids": [23],
+            "ext_descrs": [["Bright Blue", "BR.BLUE"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["blue"]] },
+          "LDraw": { "ext_ids": [1], "ext_descrs": [["Blue"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 2,
+      "part": {
+        "part_num": "44675",
+        "name": "Slope Curved 2 x 2 No Studs - 3 Recessed Side Ports",
+        "part_cat_id": 37,
+        "part_url": "https://rebrickable.com/parts/44675/slope-curved-2-x-2-no-studs-3-recessed-side-ports/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4185272.jpg",
+        "external_ids": {
+          "BrickLink": ["44675"],
+          "BrickOwl": ["719691"],
+          "Brickset": ["44675", "63277"],
+          "LDraw": ["44675"],
+          "LEGO": ["44675", "63277"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 71,
+        "name": "Light Bluish Gray",
+        "rgb": "A0A5A9",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": {
+            "ext_ids": [86],
+            "ext_descrs": [["Light Bluish Gray"]]
+          },
+          "BrickOwl": {
+            "ext_ids": [64],
+            "ext_descrs": [["Medium Stone Gray"]]
+          },
+          "LEGO": {
+            "ext_ids": [194],
+            "ext_descrs": [["Medium stone grey", "MED. ST-GREY"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["mdstone"]] },
+          "LDraw": { "ext_ids": [71], "ext_descrs": [["Light_Bluish_Gray"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 2,
+      "part": {
+        "part_num": "44675",
+        "name": "Slope Curved 2 x 2 No Studs - 3 Recessed Side Ports",
+        "part_cat_id": 37,
+        "part_url": "https://rebrickable.com/parts/44675/slope-curved-2-x-2-no-studs-3-recessed-side-ports/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4185272.jpg",
+        "external_ids": {
+          "BrickLink": ["44675"],
+          "BrickOwl": ["719691"],
+          "Brickset": ["44675", "63277"],
+          "LDraw": ["44675"],
+          "LEGO": ["44675", "63277"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 80,
+        "name": "Metallic Silver",
+        "rgb": "A5A9B4",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [67], "ext_descrs": [["Metallic Silver"]] },
+          "BrickOwl": { "ext_ids": [126], "ext_descrs": [["Metallic Silver"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["metallicsilver"]] },
+          "LDraw": { "ext_ids": [80], "ext_descrs": [["Metallic_Silver"]] },
+          "LEGO": {
+            "ext_ids": [336, 298],
+            "ext_descrs": [["SILVER INK"], ["C.SILVER, DR. L"]]
+          }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 1,
+      "part": {
+        "part_num": "61068",
+        "name": "Slope Brick Curved 2 x 4 x 2/3 No Studs [No Bottom Tubes]",
+        "part_cat_id": 37,
+        "part_url": "https://rebrickable.com/parts/61068/slope-brick-curved-2-x-4-x-23-no-studs-no-bottom-tubes/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/71/61068.png",
+        "external_ids": {
+          "BrickLink": ["61068"],
+          "BrickOwl": ["31583"],
+          "Brickset": ["61068"],
+          "LDraw": ["61068"],
+          "LEGO": ["61068"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [11], "ext_descrs": [["Black"]] },
+          "BrickOwl": { "ext_ids": [38], "ext_descrs": [["Black"]] },
+          "LEGO": {
+            "ext_ids": [26, 342],
+            "ext_descrs": [["Black", "BLACK"], ["CONDUCT. BLACK"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["black"]] },
+          "LDraw": {
+            "ext_ids": [0, 256],
+            "ext_descrs": [["Black"], ["Rubber_Black"]]
+          }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 1,
+      "part": {
+        "part_num": "3245c",
+        "name": "Brick 1 x 2 x 2 with Inside Stud Holder",
+        "part_cat_id": 11,
+        "part_url": "https://rebrickable.com/parts/3245c/brick-1-x-2-x-2-with-inside-stud-holder/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4113261.jpg",
+        "external_ids": {
+          "BrickLink": ["3245c"],
+          "BrickOwl": ["978353"],
+          "Brickset": ["3245"],
+          "LDraw": ["3245c"],
+          "LEGO": ["3245"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 71,
+        "name": "Light Bluish Gray",
+        "rgb": "A0A5A9",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": {
+            "ext_ids": [86],
+            "ext_descrs": [["Light Bluish Gray"]]
+          },
+          "BrickOwl": {
+            "ext_ids": [64],
+            "ext_descrs": [["Medium Stone Gray"]]
+          },
+          "LEGO": {
+            "ext_ids": [194],
+            "ext_descrs": [["Medium stone grey", "MED. ST-GREY"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["mdstone"]] },
+          "LDraw": { "ext_ids": [71], "ext_descrs": [["Light_Bluish_Gray"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 2,
+      "part": {
+        "part_num": "3298",
+        "name": "Slope 33° 3 x 2",
+        "part_cat_id": 3,
+        "part_url": "https://rebrickable.com/parts/3298/slope-33-3-x-2/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/329821.jpg",
+        "external_ids": {
+          "BrickLink": ["3298"],
+          "BrickOwl": ["400581"],
+          "Brickset": ["3298"],
+          "LDraw": ["3298"],
+          "LEGO": ["3298"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [5], "ext_descrs": [["Red"]] },
+          "BrickOwl": { "ext_ids": [81], "ext_descrs": [["Red"]] },
+          "LEGO": { "ext_ids": [21], "ext_descrs": [["Bright red", "BR.RED"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["red"]] },
+          "LDraw": { "ext_ids": [4], "ext_descrs": [["Red"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 1,
+      "part": {
+        "part_num": "3298",
+        "name": "Slope 33° 3 x 2",
+        "part_cat_id": 3,
+        "part_url": "https://rebrickable.com/parts/3298/slope-33-3-x-2/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/329821.jpg",
+        "external_ids": {
+          "BrickLink": ["3298"],
+          "BrickOwl": ["400581"],
+          "Brickset": ["3298"],
+          "LDraw": ["3298"],
+          "LEGO": ["3298"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 27,
+        "name": "Lime",
+        "rgb": "BBE90B",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [34], "ext_descrs": [["Lime"]] },
+          "BrickOwl": { "ext_ids": [70], "ext_descrs": [["Lime"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["lime"]] },
+          "LDraw": { "ext_ids": [27], "ext_descrs": [["Lime"]] },
+          "LEGO": {
+            "ext_ids": [119],
+            "ext_descrs": [["Br. yellowish green", "BR.YEL-GREEN", "BRIGHT YELLOWISH GREEN"]]
+          }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 2,
+      "part": {
+        "part_num": "3675",
+        "name": "Slope 33° 3 x 3 Double Convex",
+        "part_cat_id": 3,
+        "part_url": "https://rebrickable.com/parts/3675/slope-33-3-x-3-double-convex/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/367526.jpg",
+        "external_ids": {
+          "BrickLink": ["3675"],
+          "BrickOwl": ["509152"],
+          "Brickset": ["3675"],
+          "LDraw": ["3675"],
+          "LEGO": ["3675"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 27,
+        "name": "Lime",
+        "rgb": "BBE90B",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [34], "ext_descrs": [["Lime"]] },
+          "BrickOwl": { "ext_ids": [70], "ext_descrs": [["Lime"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["lime"]] },
+          "LDraw": { "ext_ids": [27], "ext_descrs": [["Lime"]] },
+          "LEGO": {
+            "ext_ids": [119],
+            "ext_descrs": [["Br. yellowish green", "BR.YEL-GREEN", "BRIGHT YELLOWISH GREEN"]]
+          }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 2,
+      "part": {
+        "part_num": "3010",
+        "name": "Brick 1 x 4",
+        "part_cat_id": 11,
+        "part_url": "https://rebrickable.com/parts/3010/brick-1-x-4/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/301001.jpg",
+        "external_ids": {
+          "BrickLink": ["3010"],
+          "BrickOwl": ["752369"],
+          "Brickset": ["3010"],
+          "LDraw": ["3010"],
+          "LEGO": ["3010"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [3], "ext_descrs": [["Yellow"]] },
+          "BrickOwl": { "ext_ids": [93], "ext_descrs": [["Yellow"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["yellow"]] },
+          "LDraw": { "ext_ids": [14], "ext_descrs": [["Yellow"]] },
+          "LEGO": {
+            "ext_ids": [24],
+            "ext_descrs": [["Bright yellow", "BR.YEL", "BRIGHT YELLOW, VERSION 2"]]
+          }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 1,
+      "part": {
+        "part_num": "50950",
+        "name": "Slope Curved 3 x 1 No Studs",
+        "part_cat_id": 37,
+        "part_url": "https://rebrickable.com/parts/50950/slope-curved-3-x-1-no-studs/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4249112.jpg",
+        "external_ids": {
+          "BrickLink": ["50950"],
+          "BrickOwl": ["727597"],
+          "Brickset": ["110132", "1605", "50950", "63278"],
+          "LDraw": ["50950"],
+          "LEGO": ["110132", "1605", "50950", "63278"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [11], "ext_descrs": [["Black"]] },
+          "BrickOwl": { "ext_ids": [38], "ext_descrs": [["Black"]] },
+          "LEGO": {
+            "ext_ids": [26, 342],
+            "ext_descrs": [["Black", "BLACK"], ["CONDUCT. BLACK"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["black"]] },
+          "LDraw": {
+            "ext_ids": [0, 256],
+            "ext_descrs": [["Black"], ["Rubber_Black"]]
+          }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 7,
+      "part": {
+        "part_num": "50950",
+        "name": "Slope Curved 3 x 1 No Studs",
+        "part_cat_id": 37,
+        "part_url": "https://rebrickable.com/parts/50950/slope-curved-3-x-1-no-studs/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4249112.jpg",
+        "external_ids": {
+          "BrickLink": ["50950"],
+          "BrickOwl": ["727597"],
+          "Brickset": ["110132", "1605", "50950", "63278"],
+          "LDraw": ["50950"],
+          "LEGO": ["110132", "1605", "50950", "63278"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 15,
+        "name": "White",
+        "rgb": "FFFFFF",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [1], "ext_descrs": [["White"]] },
+          "BrickOwl": { "ext_ids": [92], "ext_descrs": [["White"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["white"]] },
+          "LDraw": { "ext_ids": [15], "ext_descrs": [["White"]] },
+          "LEGO": { "ext_ids": [1], "ext_descrs": [["White", "WHITE V.3"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 2,
+      "part": {
+        "part_num": "50950",
+        "name": "Slope Curved 3 x 1 No Studs",
+        "part_cat_id": 37,
+        "part_url": "https://rebrickable.com/parts/50950/slope-curved-3-x-1-no-studs/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4249112.jpg",
+        "external_ids": {
+          "BrickLink": ["50950"],
+          "BrickOwl": ["727597"],
+          "Brickset": ["110132", "1605", "50950", "63278"],
+          "LDraw": ["50950"],
+          "LEGO": ["110132", "1605", "50950", "63278"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [3], "ext_descrs": [["Yellow"]] },
+          "BrickOwl": { "ext_ids": [93], "ext_descrs": [["Yellow"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["yellow"]] },
+          "LDraw": { "ext_ids": [14], "ext_descrs": [["Yellow"]] },
+          "LEGO": {
+            "ext_ids": [24],
+            "ext_descrs": [["Bright yellow", "BR.YEL", "BRIGHT YELLOW, VERSION 2"]]
+          }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 1,
+      "part": {
+        "part_num": "50950",
+        "name": "Slope Curved 3 x 1 No Studs",
+        "part_cat_id": 37,
+        "part_url": "https://rebrickable.com/parts/50950/slope-curved-3-x-1-no-studs/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4249112.jpg",
+        "external_ids": {
+          "BrickLink": ["50950"],
+          "BrickOwl": ["727597"],
+          "Brickset": ["110132", "1605", "50950", "63278"],
+          "LDraw": ["50950"],
+          "LEGO": ["110132", "1605", "50950", "63278"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [5], "ext_descrs": [["Red"]] },
+          "BrickOwl": { "ext_ids": [81], "ext_descrs": [["Red"]] },
+          "LEGO": { "ext_ids": [21], "ext_descrs": [["Bright red", "BR.RED"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["red"]] },
+          "LDraw": { "ext_ids": [4], "ext_descrs": [["Red"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 3,
+      "part": {
+        "part_num": "11153",
+        "name": "Slope Curved 4 x 1 No Studs [Stud Holder with Symmetric Ridges]",
+        "part_cat_id": 37,
+        "part_url": "https://rebrickable.com/parts/11153/slope-curved-4-x-1-no-studs-stud-holder-with-symmetric-ridges/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4522034.jpg",
+        "external_ids": {
+          "BrickLink": ["61678"],
+          "BrickOwl": ["145568"],
+          "Brickset": ["11153", "66141"],
+          "LDraw": ["61678"],
+          "LEGO": ["11153", "66141"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [5], "ext_descrs": [["Red"]] },
+          "BrickOwl": { "ext_ids": [81], "ext_descrs": [["Red"]] },
+          "LEGO": { "ext_ids": [21], "ext_descrs": [["Bright red", "BR.RED"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["red"]] },
+          "LDraw": { "ext_ids": [4], "ext_descrs": [["Red"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 2,
+      "part": {
+        "part_num": "2431",
+        "name": "Tile 1 x 4 with Groove",
+        "part_cat_id": 19,
+        "part_url": "https://rebrickable.com/parts/2431/tile-1-x-4-with-groove/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/243126.jpg",
+        "external_ids": {
+          "BrickLink": ["2431"],
+          "BrickOwl": ["853045"],
+          "Brickset": ["100687", "112418", "2431", "35371", "75703", "91143"],
+          "LDraw": ["2431"],
+          "LEGO": ["100687", "112418", "2431", "35371", "75703", "91143"],
+          "Peeron": ["2431b"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [11], "ext_descrs": [["Black"]] },
+          "BrickOwl": { "ext_ids": [38], "ext_descrs": [["Black"]] },
+          "LEGO": {
+            "ext_ids": [26, 342],
+            "ext_descrs": [["Black", "BLACK"], ["CONDUCT. BLACK"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["black"]] },
+          "LDraw": {
+            "ext_ids": [0, 256],
+            "ext_descrs": [["Black"], ["Rubber_Black"]]
+          }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 2,
+      "part": {
+        "part_num": "2431",
+        "name": "Tile 1 x 4 with Groove",
+        "part_cat_id": 19,
+        "part_url": "https://rebrickable.com/parts/2431/tile-1-x-4-with-groove/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/243126.jpg",
+        "external_ids": {
+          "BrickLink": ["2431"],
+          "BrickOwl": ["853045"],
+          "Brickset": ["100687", "112418", "2431", "35371", "75703", "91143"],
+          "LDraw": ["2431"],
+          "LEGO": ["100687", "112418", "2431", "35371", "75703", "91143"],
+          "Peeron": ["2431b"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 72,
+        "name": "Dark Bluish Gray",
+        "rgb": "6C6E68",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": {
+            "ext_ids": [85],
+            "ext_descrs": [["Dark Bluish Gray"]]
+          },
+          "BrickOwl": { "ext_ids": [50], "ext_descrs": [["Dark Stone Gray"]] },
+          "LEGO": {
+            "ext_ids": [199],
+            "ext_descrs": [["Dark stone grey", "DK. ST. GREY"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["dkstone"]] },
+          "LDraw": { "ext_ids": [72], "ext_descrs": [["Dark_Bluish_Gray"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 2,
+      "part": {
+        "part_num": "2431",
+        "name": "Tile 1 x 4 with Groove",
+        "part_cat_id": 19,
+        "part_url": "https://rebrickable.com/parts/2431/tile-1-x-4-with-groove/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/243126.jpg",
+        "external_ids": {
+          "BrickLink": ["2431"],
+          "BrickOwl": ["853045"],
+          "Brickset": ["100687", "112418", "2431", "35371", "75703", "91143"],
+          "LDraw": ["2431"],
+          "LEGO": ["100687", "112418", "2431", "35371", "75703", "91143"],
+          "Peeron": ["2431b"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 71,
+        "name": "Light Bluish Gray",
+        "rgb": "A0A5A9",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": {
+            "ext_ids": [86],
+            "ext_descrs": [["Light Bluish Gray"]]
+          },
+          "BrickOwl": {
+            "ext_ids": [64],
+            "ext_descrs": [["Medium Stone Gray"]]
+          },
+          "LEGO": {
+            "ext_ids": [194],
+            "ext_descrs": [["Medium stone grey", "MED. ST-GREY"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["mdstone"]] },
+          "LDraw": { "ext_ids": [71], "ext_descrs": [["Light_Bluish_Gray"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 3,
+      "part": {
+        "part_num": "2431",
+        "name": "Tile 1 x 4 with Groove",
+        "part_cat_id": 19,
+        "part_url": "https://rebrickable.com/parts/2431/tile-1-x-4-with-groove/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/243126.jpg",
+        "external_ids": {
+          "BrickLink": ["2431"],
+          "BrickOwl": ["853045"],
+          "Brickset": ["100687", "112418", "2431", "35371", "75703", "91143"],
+          "LDraw": ["2431"],
+          "LEGO": ["100687", "112418", "2431", "35371", "75703", "91143"],
+          "Peeron": ["2431b"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 1,
+        "name": "Blue",
+        "rgb": "0055BF",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [7], "ext_descrs": [["Blue"]] },
+          "BrickOwl": { "ext_ids": [39], "ext_descrs": [["Blue"]] },
+          "LEGO": {
+            "ext_ids": [23],
+            "ext_descrs": [["Bright Blue", "BR.BLUE"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["blue"]] },
+          "LDraw": { "ext_ids": [1], "ext_descrs": [["Blue"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 2,
+      "part": {
+        "part_num": "2431",
+        "name": "Tile 1 x 4 with Groove",
+        "part_cat_id": 19,
+        "part_url": "https://rebrickable.com/parts/2431/tile-1-x-4-with-groove/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/243126.jpg",
+        "external_ids": {
+          "BrickLink": ["2431"],
+          "BrickOwl": ["853045"],
+          "Brickset": ["100687", "112418", "2431", "35371", "75703", "91143"],
+          "LDraw": ["2431"],
+          "LEGO": ["100687", "112418", "2431", "35371", "75703", "91143"],
+          "Peeron": ["2431b"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 320,
+        "name": "Dark Red",
+        "rgb": "720E0F",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [59], "ext_descrs": [["Dark Red"]] },
+          "BrickOwl": { "ext_ids": [56], "ext_descrs": [["Dark Red"]] },
+          "LEGO": {
+            "ext_ids": [154],
+            "ext_descrs": [["Dark red", "NEW DARK RED"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["dkred"]] },
+          "LDraw": { "ext_ids": [320], "ext_descrs": [["Dark_Red"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 1,
+      "part": {
+        "part_num": "2431",
+        "name": "Tile 1 x 4 with Groove",
+        "part_cat_id": 19,
+        "part_url": "https://rebrickable.com/parts/2431/tile-1-x-4-with-groove/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/243126.jpg",
+        "external_ids": {
+          "BrickLink": ["2431"],
+          "BrickOwl": ["853045"],
+          "Brickset": ["100687", "112418", "2431", "35371", "75703", "91143"],
+          "LDraw": ["2431"],
+          "LEGO": ["100687", "112418", "2431", "35371", "75703", "91143"],
+          "Peeron": ["2431b"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [3], "ext_descrs": [["Yellow"]] },
+          "BrickOwl": { "ext_ids": [93], "ext_descrs": [["Yellow"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["yellow"]] },
+          "LDraw": { "ext_ids": [14], "ext_descrs": [["Yellow"]] },
+          "LEGO": {
+            "ext_ids": [24],
+            "ext_descrs": [["Bright yellow", "BR.YEL", "BRIGHT YELLOW, VERSION 2"]]
+          }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 5,
+      "part": {
+        "part_num": "2431",
+        "name": "Tile 1 x 4 with Groove",
+        "part_cat_id": 19,
+        "part_url": "https://rebrickable.com/parts/2431/tile-1-x-4-with-groove/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/243126.jpg",
+        "external_ids": {
+          "BrickLink": ["2431"],
+          "BrickOwl": ["853045"],
+          "Brickset": ["100687", "112418", "2431", "35371", "75703", "91143"],
+          "LDraw": ["2431"],
+          "LEGO": ["100687", "112418", "2431", "35371", "75703", "91143"],
+          "Peeron": ["2431b"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 15,
+        "name": "White",
+        "rgb": "FFFFFF",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [1], "ext_descrs": [["White"]] },
+          "BrickOwl": { "ext_ids": [92], "ext_descrs": [["White"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["white"]] },
+          "LDraw": { "ext_ids": [15], "ext_descrs": [["White"]] },
+          "LEGO": { "ext_ids": [1], "ext_descrs": [["White", "WHITE V.3"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 1,
+      "part": {
+        "part_num": "2431",
+        "name": "Tile 1 x 4 with Groove",
+        "part_cat_id": 19,
+        "part_url": "https://rebrickable.com/parts/2431/tile-1-x-4-with-groove/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/243126.jpg",
+        "external_ids": {
+          "BrickLink": ["2431"],
+          "BrickOwl": ["853045"],
+          "Brickset": ["100687", "112418", "2431", "35371", "75703", "91143"],
+          "LDraw": ["2431"],
+          "LEGO": ["100687", "112418", "2431", "35371", "75703", "91143"],
+          "Peeron": ["2431b"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 27,
+        "name": "Lime",
+        "rgb": "BBE90B",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [34], "ext_descrs": [["Lime"]] },
+          "BrickOwl": { "ext_ids": [70], "ext_descrs": [["Lime"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["lime"]] },
+          "LDraw": { "ext_ids": [27], "ext_descrs": [["Lime"]] },
+          "LEGO": {
+            "ext_ids": [119],
+            "ext_descrs": [["Br. yellowish green", "BR.YEL-GREEN", "BRIGHT YELLOWISH GREEN"]]
+          }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 1,
+      "part": {
+        "part_num": "6636",
+        "name": "Tile 1 x 6 with Groove",
+        "part_cat_id": 19,
+        "part_url": "https://rebrickable.com/parts/6636/tile-1-x-6-with-groove/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4211549.jpg",
+        "external_ids": {
+          "BrickLink": ["6636"],
+          "BrickOwl": ["154034"],
+          "Brickset": ["112417", "63324", "6636", "75702"],
+          "LDraw": ["6636"],
+          "LEGO": ["112417", "63324", "6636", "75702"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 72,
+        "name": "Dark Bluish Gray",
+        "rgb": "6C6E68",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": {
+            "ext_ids": [85],
+            "ext_descrs": [["Dark Bluish Gray"]]
+          },
+          "BrickOwl": { "ext_ids": [50], "ext_descrs": [["Dark Stone Gray"]] },
+          "LEGO": {
+            "ext_ids": [199],
+            "ext_descrs": [["Dark stone grey", "DK. ST. GREY"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["dkstone"]] },
+          "LDraw": { "ext_ids": [72], "ext_descrs": [["Dark_Bluish_Gray"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 3,
+      "part": {
+        "part_num": "6636",
+        "name": "Tile 1 x 6 with Groove",
+        "part_cat_id": 19,
+        "part_url": "https://rebrickable.com/parts/6636/tile-1-x-6-with-groove/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4211549.jpg",
+        "external_ids": {
+          "BrickLink": ["6636"],
+          "BrickOwl": ["154034"],
+          "Brickset": ["112417", "63324", "6636", "75702"],
+          "LDraw": ["6636"],
+          "LEGO": ["112417", "63324", "6636", "75702"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [11], "ext_descrs": [["Black"]] },
+          "BrickOwl": { "ext_ids": [38], "ext_descrs": [["Black"]] },
+          "LEGO": {
+            "ext_ids": [26, 342],
+            "ext_descrs": [["Black", "BLACK"], ["CONDUCT. BLACK"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["black"]] },
+          "LDraw": {
+            "ext_ids": [0, 256],
+            "ext_descrs": [["Black"], ["Rubber_Black"]]
+          }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 4,
+      "part": {
+        "part_num": "6636",
+        "name": "Tile 1 x 6 with Groove",
+        "part_cat_id": 19,
+        "part_url": "https://rebrickable.com/parts/6636/tile-1-x-6-with-groove/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4211549.jpg",
+        "external_ids": {
+          "BrickLink": ["6636"],
+          "BrickOwl": ["154034"],
+          "Brickset": ["112417", "63324", "6636", "75702"],
+          "LDraw": ["6636"],
+          "LEGO": ["112417", "63324", "6636", "75702"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 28,
+        "name": "Dark Tan",
+        "rgb": "958A73",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [69], "ext_descrs": [["Dark Tan"]] },
+          "BrickOwl": { "ext_ids": [57], "ext_descrs": [["Dark Tan"]] },
+          "LEGO": { "ext_ids": [138], "ext_descrs": [["Sand yellow"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["dktan"]] },
+          "LDraw": { "ext_ids": [28], "ext_descrs": [["Dark_Tan"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 2,
+      "part": {
+        "part_num": "3001",
+        "name": "Brick 2 x 4",
+        "part_cat_id": 11,
+        "part_url": "https://rebrickable.com/parts/3001/brick-2-x-4/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/300121.jpg",
+        "external_ids": {
+          "BrickLink": ["3001"],
+          "BrickOwl": ["771344"],
+          "Brickset": ["15589", "3001", "54534", "72841"],
+          "LDraw": ["3001"],
+          "LEGO": ["15589", "3001", "54534", "72841"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 1,
+        "name": "Blue",
+        "rgb": "0055BF",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [7], "ext_descrs": [["Blue"]] },
+          "BrickOwl": { "ext_ids": [39], "ext_descrs": [["Blue"]] },
+          "LEGO": {
+            "ext_ids": [23],
+            "ext_descrs": [["Bright Blue", "BR.BLUE"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["blue"]] },
+          "LDraw": { "ext_ids": [1], "ext_descrs": [["Blue"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 1,
+      "part": {
+        "part_num": "3001",
+        "name": "Brick 2 x 4",
+        "part_cat_id": 11,
+        "part_url": "https://rebrickable.com/parts/3001/brick-2-x-4/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/300121.jpg",
+        "external_ids": {
+          "BrickLink": ["3001"],
+          "BrickOwl": ["771344"],
+          "Brickset": ["15589", "3001", "54534", "72841"],
+          "LDraw": ["3001"],
+          "LEGO": ["15589", "3001", "54534", "72841"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [5], "ext_descrs": [["Red"]] },
+          "BrickOwl": { "ext_ids": [81], "ext_descrs": [["Red"]] },
+          "LEGO": { "ext_ids": [21], "ext_descrs": [["Bright red", "BR.RED"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["red"]] },
+          "LDraw": { "ext_ids": [4], "ext_descrs": [["Red"]] }
+        }
+      }
+    },
+    {
+      "list_id": 797897,
+      "quantity": 2,
+      "part": {
+        "part_num": "30363",
+        "name": "Slope 18° 4 x 2",
+        "part_cat_id": 3,
+        "part_url": "https://rebrickable.com/parts/30363/slope-18-4-x-2/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4185583.jpg",
+        "external_ids": {
+          "BrickLink": ["30363"],
+          "BrickOwl": ["140862"],
+          "Brickset": ["30363"],
+          "LDraw": ["30363"],
+          "LEGO": ["30363"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [5], "ext_descrs": [["Red"]] },
+          "BrickOwl": { "ext_ids": [81], "ext_descrs": [["Red"]] },
+          "LEGO": { "ext_ids": [21], "ext_descrs": [["Bright red", "BR.RED"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["red"]] },
+          "LDraw": { "ext_ids": [4], "ext_descrs": [["Red"]] }
+        }
+      }
+    }
+  ]
+}

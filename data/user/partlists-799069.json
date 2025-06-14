@@ -1,0 +1,45 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "list_id": 799069,
+      "quantity": 1,
+      "part": {
+        "part_num": "3009",
+        "name": "Brick 1 x 6",
+        "part_cat_id": 11,
+        "part_url": "https://rebrickable.com/parts/3009/brick-1-x-6/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/300901.jpg",
+        "external_ids": {
+          "BrickLink": ["3009"],
+          "BrickOwl": ["340943"],
+          "Brickset": ["3009"],
+          "LDraw": ["3009"],
+          "LEGO": ["3009"]
+        },
+        "print_of": null
+      },
+      "color": {
+        "id": 72,
+        "name": "Dark Bluish Gray",
+        "rgb": "6C6E68",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": {
+            "ext_ids": [85],
+            "ext_descrs": [["Dark Bluish Gray"]]
+          },
+          "BrickOwl": { "ext_ids": [50], "ext_descrs": [["Dark Stone Gray"]] },
+          "LEGO": {
+            "ext_ids": [199],
+            "ext_descrs": [["Dark stone grey", "DK. ST. GREY"]]
+          },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["dkstone"]] },
+          "LDraw": { "ext_ids": [72], "ext_descrs": [["Dark_Bluish_Gray"]] }
+        }
+      }
+    }
+  ]
+}

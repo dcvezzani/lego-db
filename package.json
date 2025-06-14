@@ -1,0 +1,20 @@
+{
+  "name": "lego-db",
+  "version": "1.0.0",
+  "description": "LEGO database management tools",
+  "main": "src/sync-parts-lists.js",
+  "scripts": {
+    "sync:lists": "node src/sync-parts-lists.js",
+    "sync:parts": "node src/sync-user-parts.js",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  },
+  "dependencies": {
+    "glob": "^7.2.3",
+    "pg": "^8.11.3"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "count": 2,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "list_id": 802500,
+      "quantity": 2,
+      "part": {
+        "part_num": "95342pr0001",
+        "name": "Animal, Chicken with Black Eyes and Red Comb Print",
+        "part_cat_id": 28,
+        "part_url": "https://rebrickable.com/parts/95342pr0001/animal-chicken-with-black-eyes-and-red-comb-print/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4623959.jpg",
+        "external_ids": {
+          "BrickLink": ["95342pb01"],
+          "BrickOwl": ["408186"],
+          "Brickset": ["16723", "61822", "96094", "96143"],
+          "LDraw": ["95342p01"],
+          "LEGO": ["16723", "61822", "96094", "96143"],
+          "Peeron": ["95342p01"]
+        },
+        "print_of": "95342"
+      },
+      "color": {
+        "id": 15,
+        "name": "White",
+        "rgb": "FFFFFF",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [1], "ext_descrs": [["White"]] },
+          "BrickOwl": { "ext_ids": [92], "ext_descrs": [["White"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["white"]] },
+          "LDraw": { "ext_ids": [15], "ext_descrs": [["White"]] },
+          "LEGO": { "ext_ids": [1], "ext_descrs": [["White", "WHITE V.3"]] }
+        }
+      }
+    },
+    {
+      "list_id": 802500,
+      "quantity": 2,
+      "part": {
+        "part_num": "95342pr0001",
+        "name": "Animal, Chicken with Black Eyes and Red Comb Print",
+        "part_cat_id": 28,
+        "part_url": "https://rebrickable.com/parts/95342pr0001/animal-chicken-with-black-eyes-and-red-comb-print/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4623959.jpg",
+        "external_ids": {
+          "BrickLink": ["95342pb01"],
+          "BrickOwl": ["408186"],
+          "Brickset": ["16723", "61822", "96094", "96143"],
+          "LDraw": ["95342p01"],
+          "LEGO": ["16723", "61822", "96094", "96143"],
+          "Peeron": ["95342p01"]
+        },
+        "print_of": "95342"
+      },
+      "color": {
+        "id": 28,
+        "name": "Dark Tan",
+        "rgb": "958A73",
+        "is_trans": false,
+        "external_ids": {
+          "BrickLink": { "ext_ids": [69], "ext_descrs": [["Dark Tan"]] },
+          "BrickOwl": { "ext_ids": [57], "ext_descrs": [["Dark Tan"]] },
+          "LEGO": { "ext_ids": [138], "ext_descrs": [["Sand yellow"]] },
+          "Peeron": { "ext_ids": [null], "ext_descrs": [["dktan"]] },
+          "LDraw": { "ext_ids": [28], "ext_descrs": [["Dark_Tan"]] }
+        }
+      }
+    }
+  ]
+}
