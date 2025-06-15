@@ -105,7 +105,11 @@ CREATE INDEX idx_inventory_parts_color ON inventory_parts(color_id);
 
 -- Copy data from CSV
 COPY inventory_parts(inventory_id, part_num, color_id, quantity, is_spare, img_url)
-FROM '/tmp/lego-db/inventory_parts.csv'
+FROM '/tmp/lego-db/inventory_parts_1.csv'
+WITH (FORMAT csv, HEADER true);
+
+COPY inventory_parts(inventory_id, part_num, color_id, quantity, is_spare, img_url)
+FROM '/tmp/lego-db/inventory_parts_2.csv'
 WITH (FORMAT csv, HEADER true);
 
 -- Part Relationships table
